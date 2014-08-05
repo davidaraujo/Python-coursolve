@@ -1,0 +1,240 @@
+Data Sciences 209
+Data Analysis 189
+Data Mining 141
+Machine Learning 105
+Data Science 98
+Hadoop 86
+Big Data 79
+Data Processing & Analytics 78
+Data Visualization 76
+Business Strategies 70
+Strategic Analysis 63
+Python 45
+Business Development 36
+Nosql 34
+R 32
+Statistical Analysis 32
+Mapreduce 31
+Business Consulting 30
+Business Analysis 29
+Data Science, Hadoop, Machine Learning 28
+R Programming 28
+Business Strategy 27
+Python Programming 26
+Financial Analysis 25
+Programming Skills 25
+Big Data, Data Analysis, Data Mining 25
+Management Consulting 24
+Project Management 23
+Data Structures And Algorithms 23
+Business Intelligence And Data Mining 23
+Big Data Analytics 23
+Hadoop , Handling And Analysing Big Data 22
+Sql 21
+Entrepreneurship 19
+Strategy Consulting 19
+Marketing 19
+Strategy & Operations 18
+Strategy Development 18
+Statistics 17
+Analytical Skills 17
+Big Data Manipulation 16
+Data Analyst 15
+Machine Learning, R, Java, Nosql, Map Reduce 14
+Strategic Thinking 14
+Financial Modelling 14
+Data Analytics 14
+Artificial Intelligence 14
+Statistical Data Analysis 13
+Consulting 13
+Analysis Of Information 13
+Database Design 12
+Marketing Strategy 12
+Analytic, Problem Solving 12
+Business Transformation 11
+Strategic Planning 11
+Algorithms 11
+Natural Language Processing 10
+Analytics 10
+Predictive Analytics 10
+Leadership 10
+Java 10
+Web Development 10
+Hadoop Ecosystem 10
+Corporate Finance 9
+Software Development 9
+Data Sciences (Coursera - Introduction To Data Science) 9
+Entrepreneurship Management 9
+Management 9
+Finance 9
+Cloud Computing 8
+Organizational Development 8
+Statistical Modeling 8
+Strategic Development & Planning 8
+Decision-Making 8
+Map Reduce 8
+Business Process Improvement 8
+International Business 8
+Computer Programming 8
+Brand Management, Social Marketing 8
+Sql, Sas, Data Analysis, Hadoop, Big Data, Database, R, Python 8
+Operations Management 8
+Visualization, Large Scale Computing 7
+Mongodb 7
+Pig, Hive, Map Reduce 7
+Databases 7
+Human Resources 7
+Marketing And Business Plans Development 7
+Strategy 7
+Financial Planning, Roi, Profitability Analysis 7
+Scala 7
+Javascript 6
+Tableau 6
+Proposal Writing 6
+Sentiment Analysis 6
+Sas 6
+Hive 6
+Market Research 6
+Financial Management 6
+Financial Markets 6
+Big Data Analysis, Statistics 6
+Modeling 6
+Risk Management 6
+Visualization 6
+Cryptography 6
+Communication 5
+Business Stratergist 5
+Recommendation System 5
+Open Source Projects 5
+Marketing Communications 5
+C/C++, Java, Python 5
+Mobile Applications 5
+Competitor Analysis 5
+Statistical Programming 5
+Cloud Applications 5
+Ios Development 5
+Leadership Development 5
+Programming Languages 5
+Entreprenuership And Ecommerce 5
+Ruby 5
+Economics 5
+Business Management. 5
+Computational Linguistics 5
+Big Data Concepts And Archtecture 4
+Vitrualization 4
+Computer Vision 4
+Html 5 4
+Spark 4
+Problem-Solving & Decision-Making 4
+Social Entrepreneurship 4
+Experience 4
+Accounting 4
+Customer Experience Management 4
+Distributed Systems 4
+Networking 4
+Programming 4
+Innovation Management 4
+Start-Ups 4
+Strategic Financial Planning 4
+Node.Js 4
+Critical Business Management 4
+Design Thinking 4
+Pig 4
+Market Analysis 4
+Data Mining, Machine Learning, Nlp, Ir, Data Analytics 4
+Web Applications 4
+Strong Problem-Solving, Analytical And Organizational Skills 4
+New Business Development 4
+Big Data Analysis 4
+Python, C, R, Matlab, Hadoop, Sql, Machine Learning, Map Reduce 3
+Crowdfunding 3
+Research & Analysis 3
+International Development 3
+Planning Skills And Business Innovation Skills 3
+Expertise In Above Mentioned Skills 3
+Quality Management 3
+Adaptable, Willing To Learn New Skills 3
+Research Project Management 3
+Social Network Analysis 3
+Haskell 3
+Operational Planning 3
+Planning 3
+Auditing 3
+Improved Data Analysis 3
+Data Science, Data Warehousing, Consulting, Project Management, Business Analytics 3
+Business Intelligence 3
+Strategy Analysis 3
+Security 3
+Agile Methodologies 3
+Supply Chain Management, Market Research 3
+Web Technologies 3
+Portfolio Management / Fixed Income Trading 3
+Deep Learning 3
+Product Management 3
+Visualization Tool Skills 3
+Php 3
+Regression Testing 3
+C++ 3
+Relational Databases 3
+Machine Learning,  Nosql, Map Reduce 3
+Enterprise Architecture 3
+Image Processing 3
+Sql Server 3
+Social Media 3
+Marketing And Digital Marketing Consultant 3
+Predictive Modeling 3
+Optimization 3
+Business Strategy / Innovation 3
+Customer Relations 3
+Maching Learning, Hadoop, 3
+Start-Up Consulting 3
+Programming & Scripting 3
+Sales 3
+D3.Js 3
+Strategic Planning. 3
+Research Design 3
+Analytic, Problem Solving, Leadership 3
+Predictive Analysis 3
+Technology Strategy 3
+Project Administration 3
+Computer Science 3
+Business Process 3
+Improve The Strategic Analysis 3
+Data Analysis At Scale 3
+Android Development 3
+Writing 3
+Financial Modeling 3
+Business Strategy & Planning Skills 3
+Negotiation 3
+English Language: Professional Working Proficiency. 2
+Technical Writing 2
+Research 2
+Startups Commercialisation 2
+Development Management 2
+International Business Development 2
+Kaizen 2
+Technology 2
+Emotional Intelligence 2
+Sales Operations 2
+Decision Making 2
+Statistical Inference 2
+Marketing And Business Plans Presentations 2
+Phython 2
+Open Source 2
+Scientific Computing 2
+Financial Accounting 2
+Angularjs 2
+Brand Management 2
+Machine Learning, Analytic 2
+Real World Data Analytics Experience 2
+Research Leadership 2
+Bayesian Nonparametrics 2
+Portfolio Management 2
+Software Project Management 2
+Parallel Programming 2
+Hrm 2
+Quantitative Research 2
+Project Management Skills 2
+R Programming, 2
+Digital Strategy 2
+Communication Skills 2

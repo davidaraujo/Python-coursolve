@@ -1,0 +1,4013 @@
+--------------------------- coursera
+	Bioinformatics (Coursera - Bioinformatics Algorithms)
+	Machine Learning (Coursera - Machine Learning)
+	Cuda Programming (Coursera - Heterogeneous Parallel Programming)
+	Data Sciences (Coursera - Introduction To Data Science)
+--------------------------- 3d
+	3D Printing
+	3D Studio Max
+	3D Modelling
+--------------------------- 6i
+	Forms 6I
+	Reports 6I
+--------------------------- academic
+	Academic Writing
+	Academic Tutoring
+--------------------------- access
+	Sun Access Manager
+	Access
+	Microsoft Access
+--------------------------- account
+	Key Account Development
+	Account Reconciliation
+	Accounts Payable
+	Accounts
+	Account Management
+	Accounts Receivable
+	Financial Accounting
+	Accounting
+	Key Account Management
+	Management Accounting
+--------------------------- account management
+	Key Account Management
+	Account Management
+--------------------------- accounting
+	Management Accounting
+	Financial Accounting
+	Accounting
+--------------------------- accounts
+	Accounts Payable
+	Accounts
+	Accounts Receivable
+--------------------------- active
+	Active Listening
+	Active Directory
+	Active Directory Administration
+--------------------------- active directory
+	Active Directory Administration
+	Active Directory
+--------------------------- administration
+	Server Administration
+	Network Administration
+	Active Directory Administration
+	Public Administration
+	Blackberry Enterprise Server Administration
+	Lamp Administration
+	Policy Administration
+	Business Administration
+	Database Administration
+	Project Administration
+	System Administration
+	Ldap Administration
+	Linux System Administration
+	Data Administration
+	Administration
+--------------------------- administrative
+	Ability To Streamline Administrative Processes
+	Administrative Support
+	Administrative Law
+--------------------------- administrator
+	System Administrator
+	Database Administrator
+	Database Administrator For Db2 Luw
+--------------------------- adobe
+	Adobe After Effects
+	Adobe Photoshop
+	Adobe Illustrator
+	Adobe Creative Suite
+--------------------------- advertising
+	Online Advertising
+	Advertising
+	Advertising Research
+--------------------------- advisory
+	Technology Advisory
+	Project Finance Advisory
+--------------------------- aerospace
+	Aerospace Mechanisms
+	Aerospace
+--------------------------- agile
+	Agile
+	Agile Methodologies
+	Agile Application Development
+	Agile Testing
+	Agile Project Management
+	Agile Plm
+--------------------------- air
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+	Air Force
+	Compressed Air Project Evaluation:  Payback Analysis Regarding The Benefits Of Improving Processes.
+--------------------------- ajax
+	Asp.Net Ajax
+	Ajax
+--------------------------- algorithms
+	Some Algorithms
+	Graph Algorithms
+	Metaheuristic Algorithms
+	Algorithms
+	Experience With Machine Learning Algorithms
+	Greedy Algorithms
+	Java Algorithms Data Structures Python Javascript
+	Bioinformatics (Coursera - Bioinformatics Algorithms)
+	Genetic Algorithms
+	Data Mining Algorithms
+	Java Algorithms Data Structures
+--------------------------- alternative
+	Alternative Energy
+	Alternative Investments
+--------------------------- amazon
+	Amazon Ec2
+	Amazon Web Services
+	Amazon Web Services (Aws)
+--------------------------- amazon web services
+	Amazon Web Services (Aws)
+	Amazon Web Services
+--------------------------- analysis
+	Object-Oriented Analysis
+	Policy Analysis
+	Customer Segmentation Analysis
+	Systems Analysis
+	Test Analysis
+	Analysis Of Stock Investment.
+	Analysis Services
+	L Analysis
+	Health Policy Analysis
+	Software Business Analysis
+	Competitive Analysis
+	Statistical Analysis
+	Product Cost Analysis
+	Statistical Data Analysis
+	Social Network Analysis
+	Quality Control Analysis
+	Technical Analysis
+	Value Chain Analysis
+	Revenue Analysis
+	Rnaseq Analysis
+	Stakeholder Analysis
+	Finite Element Analysis
+	Analysis Of Information
+	Requirements Analysis
+	Organizational Needs Analysis
+	Analysis  Process
+	Economic Analysis
+	Graph Analysis
+	Market Basket Analysis
+	Financial Analysis
+	Mathematical Analysis
+	Root Cause Analysis
+	Credit Analysis
+	Data Analysis
+	Stochastic Analysis
+	Cluster Analysis
+	Performance Analysis
+	Descriptive Analysis
+	Business Analysis
+	Failure Analysis
+	Big Data Analysis
+	Trend Analysis
+	Cost Analysis
+	Organizational Analysis
+	Time Series Analysis
+	Financial Statement Analysis
+	Market Analysis
+	Dataflow Analysis
+	Operations Analysis
+	Regression Analysis
+	Software Analysis
+	Multivariate Analysis
+	Numerical Analysis
+	Exploratory Data Analysis
+	Basic Data Analysis
+	Statistical Analysis Using Ms Excel
+	Quantitative Data Analysis
+	Spatial Analysis
+	Sentiment Analysis
+	Critical Analysis
+	Analysis Capability
+	Image Analysis
+	Strategic Analysis
+	Vehicle Crash Analysis
+	Analysis
+	Functional Analysis
+	Quantitative Analysis
+	Sequence Analysis
+	Strategy Analysis
+	Qualitative Data Analysis
+	Compressed Air Project Evaluation:  Payback Analysis Regarding The Benefits Of Improving Processes.
+	Competitor Analysis
+	General Business Analysis
+	Profitability Analysis
+	Quatitative Data Analysis
+--------------------------- analyst
+	Business Analyst
+	Data Analyst
+--------------------------- analytical
+	Excellent Analytical
+	Analytical
+	Strong Analytical Abilities
+	Analytical Skills
+--------------------------- analytics
+	Marketing Analytics
+	Data Analytics
+	Big Data Analytics
+	Predictive Analytics
+	Quantitative Analytics
+	Google Analytics
+	Web Analytics
+	Spend Analytics
+	Text Analytics
+	Business Analytics
+	Analytics
+--------------------------- apache
+	Apache 2
+	Apache Pig
+	Apache
+	Apache Camel
+--------------------------- api
+	Google Maps Api
+	Twitter Api
+	Win32 Api
+--------------------------- application
+	Websphere Application Server
+	J2Ee Application Development
+	Desktop Application Support
+	Agile Application Development
+	Jboss Application Server
+	Application Development
+	Mobile Applications
+	Web Applications
+	Web Application Development
+	Application Design
+	Cloud Applications
+--------------------------- application development
+	Web Application Development
+	Agile Application Development
+	Application Development
+	J2Ee Application Development
+--------------------------- application server
+	Websphere Application Server
+	Jboss Application Server
+--------------------------- applications
+	Mobile Applications
+	Web Applications
+	Cloud Applications
+--------------------------- architecture
+	Architecture
+	Architecture Frameworks
+	Technical Architecture
+	Data Warehouse Architecture
+	System Architecture
+	Naval Architecture
+	Information Architecture
+	Content Architecture
+	Computer Architecture
+	Event Driven Architecture
+	Software Architecture
+	It Architecture
+	Data Architecture
+	Solution Architecture
+	Enterprise Systems Architecture
+	Mvc Architecture
+	Network Architecture
+	Enterprise Architecture
+	Mainframe Architecture
+--------------------------- artificial
+	Artificial Neural Networks
+	Artificial Intelligence
+	Basic Artificial Intelligence
+--------------------------- artificial intelligence
+	Basic Artificial Intelligence
+	Artificial Intelligence
+--------------------------- asp.net
+	Web Development Using Asp.Net C#
+	Asp.Net Mvc
+	Asp.Net
+	Asp.Net Ajax
+--------------------------- assembly
+	X86 Assembly
+	Assembly
+--------------------------- assessment
+	Conducting Training Needs Assessment
+	Assessment
+	Risk Assessment
+--------------------------- asset
+	Software Asset Management
+	Asset Managment
+	Asset Management
+--------------------------- asset management
+	Software Asset Management
+	Asset Management
+--------------------------- audit
+	Retail Audit Search
+	Internal Audit
+	Design Audit
+	Energy Audits
+	Financial Audits
+--------------------------- audits
+	Energy Audits
+	Financial Audits
+--------------------------- autocad
+	Autocad Mechanical
+	Autocad
+--------------------------- automated trading
+	Automated Securities Trading
+	Automated Trading
+--------------------------- automation
+	Workload Automation
+	Test Automation
+	Automation
+--------------------------- automotive
+	Automotive Engineering
+	Automotive
+--------------------------- aviation
+	Aviation Operations
+	Aviation
+--------------------------- balancing
+	Line Balancing
+	Load Balancing
+--------------------------- banking
+	Branch Banking
+	Investment Banking
+	Banking
+--------------------------- bash
+	Bash Script
+	Bash
+--------------------------- basic
+	Basic Visualization
+	Basic (R
+	Basic Artificial Intelligence
+	Basic Python
+	Basic Biology
+	Dementia Care Mapping- Basic User
+	Basic Operations Knowledge
+	Visual Basic
+	Basic Python Skills
+	Basic Programming
+	Basic Finance
+	Basic Machine Learning Knowledge
+	Basic Data Analysis
+	Basic Forensic
+	Basic Statistics
+	Basic Economics
+	Basic Python Programming
+--------------------------- basic knowledge
+	Basic Operations Knowledge
+	Basic Machine Learning Knowledge
+--------------------------- basic programming
+	Basic Programming
+	Basic Python Programming
+--------------------------- basic python
+	Basic Python
+	Basic Python Programming
+	Basic Python Skills
+--------------------------- belt
+	Green Belt
+	Black Belt
+--------------------------- bi
+	Microsoft Bi Suite
+	Oracle Bi
+	Basic Biology
+	Computational Biology
+	Cell Biology
+	Biology
+	Systems Biology
+	Synthetic Biology
+	Evolutionary Biology
+	Structural Biology
+	Molecular Biology
+	Ibm Cognos Bi
+	Structural Bioinformatics
+	Bioinformatics
+	Biomedical Signal Processing
+	Biomedical Engineering
+	Ibm Bi
+	Nosql Bigdata
+	Bigdata
+	Biomedical Device Design
+	Biz Dev
+	Biz Process
+	Biological Physics
+	Biological Systems
+--------------------------- big data
+	Analysing Big Data
+	Big Data
+	Big Data Analysis
+	Big Data Analytics
+	Big Data Concepts
+	Big Data Manipulation
+--------------------------- bigdata
+	Nosql Bigdata
+	Bigdata
+--------------------------- bioinformatics
+	Bioinformatics (Coursera - Bioinformatics Algorithms)
+	Bioinformatics
+	Structural Bioinformatics
+--------------------------- biological
+	Biological Physics
+	Biological Systems
+--------------------------- biology
+	Evolutionary Biology
+	Computational Biology
+	Basic Biology
+	Cell Biology
+	Biology
+	Systems Biology
+	Synthetic Biology
+	Structural Biology
+	Molecular Biology
+--------------------------- biomedical
+	Biomedical Signal Processing
+	Biomedical Engineering
+	Biomedical Device Design
+--------------------------- biophysics
+	Computational Biophysics
+	Biophysics
+--------------------------- biz
+	Biz Dev
+	Biz Process
+--------------------------- black
+	Black Box Testing
+	Black Belt
+--------------------------- blackberry enterprise server
+	Blackberry Enterprise Server
+	Blackberry Enterprise Server Administration
+--------------------------- brand
+	Brand Consulting
+	Brand Management
+	Brand Development
+	Brand Research
+	Corporate Branding
+	Branding
+--------------------------- branding
+	Corporate Branding
+	Branding
+--------------------------- building
+	Model Building
+	Quality Process Building For Organizations
+	Team Building
+	Building World Class Teams
+	Relationship Building
+	Green Building
+--------------------------- business
+	Business Requirements
+	Business Objects
+	Business Skills
+	Business Planning
+	Space Business
+	Business Management
+	Business Intelligence Tools
+	Business Strategies
+	International Business
+	Business Analysis
+	Business Concept Development
+	Business Administration
+	Inspire Close Personnel To Share Business Goals
+	International Business Development
+	General Business Analysis
+	Business Intelligence
+	Small Business Developent
+	Business Stratergist
+	Business Development
+	International Business Law
+	New Business Development
+	Business English
+	Business Modeling
+	Business Process Re-Engineering
+	Business Plans Development
+	Business Develoment
+	Business Process Improvement
+	Business Innovation Skills
+	Global Business
+	Business Transformation
+	Business Research
+	Business Presentation
+	International Business In China
+	Critical Business Management
+	Business Plans Presentations
+	Business Process
+	Business Management.
+	Software Business Analysis
+	Business Consulting
+	Business Ownership
+	Small Business
+	Business Modelling
+	Business Alliances
+	Business Analyst
+	Business Relationship Management
+	Business Process Design
+	Business
+	Business Process Management
+	Business Strategy
+	Business Model Canvas
+	Business Analytics
+	International Business Strategy
+	Business Development Skills
+	Business Economics
+--------------------------- business analysis
+	General Business Analysis
+	Business Analysis
+	Software Business Analysis
+--------------------------- business development
+	Business Plans Development
+	Business Development
+	International Business Development
+	Business Development Skills
+	Business Concept Development
+	New Business Development
+--------------------------- business intelligence
+	Business Intelligence Tools
+	Business Intelligence
+--------------------------- business management
+	Business Process Management
+	Business Management
+	Critical Business Management
+	Business Relationship Management
+--------------------------- business plans
+	Business Plans Presentations
+	Business Plans Development
+--------------------------- business process
+	Business Process Re-Engineering
+	Business Process Improvement
+	Business Process Design
+	Business Process Management
+	Business Process
+--------------------------- business skills
+	Business Development Skills
+	Business Innovation Skills
+	Business Skills
+--------------------------- business strategy
+	International Business Strategy
+	Business Strategy
+--------------------------- c
+	Embedded C
+	C
+	C Programming
+	C Learning
+--------------------------- c#
+	Visual C#
+	C#
+	C# 4.0
+	Web Development Using Asp.Net C#
+--------------------------- c++
+	Visual C++
+	C++
+--------------------------- capital
+	Technology For Human Capital Management
+	Capital Equipment Sales
+	Venture Capital
+	Capital Markets
+	Capital Equipment
+--------------------------- capital equipment
+	Capital Equipment Sales
+	Capital Equipment
+--------------------------- carbon
+	Carbon Footprinting
+	Carbon Management
+--------------------------- care
+	Elder Care
+	Critical Care
+	Acute Care
+	Long-Term Care
+	Dementia Care Mapping- Basic User
+	Home Care
+	Managed Care
+--------------------------- cell
+	Cell Biology
+	Cell Culture
+--------------------------- center
+	Informatica Power Center 8.1
+	Data Center
+	Quality Center
+--------------------------- certified
+	Certified Minimost Applicator
+	Itil V3 Foundations Certified
+	Certified Scrum Master Csm
+	Sun Certified Java Programmer
+	Itil Certified
+	Istqb Certified
+--------------------------- chain
+	Value Chain Analysis
+	Supply Chain
+	Supply Chain Management
+--------------------------- change
+	Change Leadership
+	Change Management
+	Change
+	Climate Change
+	Leading Positive Change
+--------------------------- channel
+	Channel Strategys
+	Channel Management
+	Channel Marketing
+--------------------------- characterization
+	Protein Characterization
+	Characterization
+--------------------------- chemical
+	Chemical Process Safety
+	Chemical Engineering
+--------------------------- chemistry
+	Organic Chemistry
+	Chemistry
+	Protein Chemistry
+--------------------------- chinese
+	Chinese Culture
+	Chinese
+--------------------------- cisco
+	Cisco Ios
+	Cisco Technologies
+--------------------------- client
+	Client Co-Ordination
+	Client Solutions
+	Client Interfacing Skills
+	Key Client Relationships
+	Client Management Skills.
+--------------------------- clinical
+	Clinical Research
+	Clinical Data Management
+--------------------------- cloud
+	Cloud
+	Cloud Applications
+	Cloud Computing
+	Private Cloud
+	Solution Architect -  Cloud Computing
+--------------------------- cloud computing
+	Solution Architect -  Cloud Computing
+	Cloud Computing
+--------------------------- coaching
+	Management Consulting; Leadership Coaching
+	Emotional Intelligence Coaching
+	Coaching
+--------------------------- cobit
+	Cobit 5
+	Cobit 4.1
+	Cobit
+--------------------------- cognos
+	Cognos
+	Ibm Cognos Bi
+--------------------------- commissioning
+	Commissioning
+	Startup Commissioning
+--------------------------- commodity
+	Commodity Risk Management
+	Commodity
+	Commodity Pricing
+	Commodity Markets
+--------------------------- communication
+	Efficient Communication
+	Excellent Communication
+	Effective Communication With Shareholders
+	Communication Skills
+	Written Communication
+	Communication
+	Communication Skill
+	Communications Research
+	Cellular Communications
+	Communications
+	Intercultural Communication
+	Outstanding Interpersonal Communication Skills
+	Exceptional Communication
+	Mobile Communications
+	Unified Communications
+	Internal Communications
+	Marketing Communications
+	Strategic Communications
+--------------------------- communication skills
+	Outstanding Interpersonal Communication Skills
+	Communication Skills
+--------------------------- community
+	Community Development
+	Community Outreach
+--------------------------- company
+	Key Factor For Closing Projects In Mayor Steel Company
+	Company Presentations
+	A Glass Company
+--------------------------- competition law
+	Eu Competition Law
+	Competition Law
+--------------------------- competitive
+	Competitive Intelligence
+	Competitive Strategy
+	Competitive Strategies
+	Competitive Analysis
+	Competitive
+--------------------------- complex
+	Complex Problem Solving
+	Complex Networks
+--------------------------- compliance
+	Regulatory Compliance
+	Compliance
+--------------------------- compressed air
+	Compressed Air Project Evaluation:  Payback Analysis Regarding The Benefits Of Improving Processes.
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+--------------------------- computational
+	Computational Biophysics
+	Computational Physics
+	Computational
+	Computational Biology
+	Computational Investment
+	Computational Linguistics
+--------------------------- computer
+	Computer Security
+	Computer Engineering
+	Multi-Language Computer Programming
+	Computer Science
+	Computer Technician
+	Human Computer Interaction
+	Computer Aided Design (Cad)
+	Computer Skills
+	Computer Hardware
+	Computer Network Operations
+	Computer Programming
+	Computer Architecture
+	Computer Vision
+--------------------------- computer programming
+	Multi-Language Computer Programming
+	Computer Programming
+--------------------------- computing
+	Computing
+	Scientific Computing
+	Large Scale Computing
+	Quantum Computing
+	High Performance Computing
+	Solution Architect -  Cloud Computing
+	Cloud Computing
+--------------------------- construction
+	Construction Safety
+	Construction Management
+	Construction
+	Compiler Construction
+	Construction Engineering
+--------------------------- consulting
+	Environmental Consulting
+	Sustainability Consulting
+	E-Business Consulting
+	Brand Consulting
+	Technology Consulting
+	Technical Consulting
+	Innovation Consulting
+	Strategic Consulting
+	Hr Consulting
+	Strategy Consulting
+	Start-Up Consulting
+	Business Consulting
+	Finance Consulting
+	Political Consulting
+	Consulting
+	Process Consulting
+	Management Consulting
+--------------------------- consumer
+	Consumer Law
+	Consumer Research
+	Consumer Behaviour
+--------------------------- content
+	Enterprise Content Management
+	Content Development
+	Content Management
+	Content Architecture
+--------------------------- content management
+	Content Management
+	Enterprise Content Management
+--------------------------- contract
+	Contract Law
+	Contract Management
+	Contract Negotiation
+--------------------------- control
+	Version Control
+	Inventory Control
+	Advanced Acl (Audit Control Language)
+	Control Systems Design
+	Cost Control Engineering
+	Control System Engineering
+	Quality Control
+	Quality Control Analysis
+--------------------------- control engineering
+	Cost Control Engineering
+	Control System Engineering
+--------------------------- coordination
+	Coordination Of Teams
+	Project Coordination
+--------------------------- core
+	Core Network
+	Core Java
+--------------------------- corporate
+	Corporate Identity
+	Corporate Finance
+	Corporate Sustainability
+	Corporate Website Management
+	Corporate Branding
+	Corporate Law
+	Corporate Social Responsibility
+--------------------------- cost
+	Cost Management.
+	Product Cost Analysis
+	Cost Reduction
+	Cost Control Engineering
+	Cost Analysis
+--------------------------- cost analysis
+	Product Cost Analysis
+	Cost Analysis
+--------------------------- creative
+	Creative Direction
+	Adobe Creative Suite
+	Creative Strategy
+	Creative Solutions
+	Creative Pitching
+	Creative Problem Solving
+	Creative Vision
+	Creative Writing
+--------------------------- credit
+	Credit Analysis
+	Credit Risk
+	Credit Management
+--------------------------- critical
+	Critical Business Management
+	Critical Thinking
+	Critical Care
+	Critical Analysis
+--------------------------- crm
+	Crm Siebel
+	Microsoft Crm
+	Sap Crm Technical
+	Crm
+	Oracle Crm
+--------------------------- crystal
+	Crystal Xcelsius
+	Crystal Reports
+	Crystal Report
+--------------------------- css
+	Css Javascript
+	Css
+--------------------------- cuda
+	Cuda Programming (Coursera - Heterogeneous Parallel Programming)
+	Cuda
+--------------------------- culture
+	Cell Culture
+	Chinese Culture
+--------------------------- customer
+	Customer Engagement
+	Customer Service
+	Customer Retention
+	Customer Experience
+	Customer Aquisition
+	Customer Oriented
+	Customer Service Model
+	Customer Experience Management
+	Customer Support
+	Customer Segmentation Analysis
+	Customer Insight
+	Customer Relations
+	Customer Satisfaction
+--------------------------- customer experience
+	Customer Experience Management
+	Customer Experience
+--------------------------- customer service
+	Customer Service Model
+	Customer Service
+--------------------------- d
+	D Engineering
+	D
+--------------------------- dashboard
+	Dashboard Design
+	Dashboard
+--------------------------- data
+	Data Sciences (Coursera - Introduction To Data Science)
+	Java Algorithms Data Structures Python Javascript
+	Qualitative Data Analysis
+	Data Modelling
+	Database Management System
+	Database Management
+	Data Mining Algorithms
+	Data Mining Technique
+	Data Engineering
+	Big Data Analysis
+	Quantitative Data Analysis
+	Data Analysis
+	Data Quality
+	Data Management
+	Data Mining
+	Database Administrator
+	Database Administrator For Db2 Luw
+	Data Journalism
+	Analysing Big Data
+	Big Data
+	Quatitative Data Analysis
+	Exploratory Data Analysis
+	Java Algorithms Data Structures
+	Database Design : Oracle
+	Oracle Database
+	Maintenance Of Data Dictionaries
+	Data Modeling
+	Oracle Data Miner
+	Big Data Analytics
+	Basic Data Analysis
+	Statistical Data Analysis
+	Data Structures
+	Database Design
+	Scientific Data Management
+	Big Data Concepts
+	Data Warehouse Architecture
+	Master Data Management
+	Clinical Data Management
+	Big Data Manipulation
+	Data Analyst
+	Data Architecture
+	Data Mapping
+	Data Warehousing
+	Data Wrangling
+	Data Analytics
+	Data Storage
+	Data Integration
+	Data Administration
+	Data Cleaning
+	Oracle Data Integrator
+	Data Center
+	Data Visualization
+	Data Migration
+	Data
+	Data Processing
+	Graphic Database
+	Database Development
+	Data Sciences
+	Database
+	Data Science
+	Database Administration
+	Creating A Database Using Ms Excel
+	Database Admin
+	Ug Courses Relevant To Data Analytics: Prob.
+	Database Design: Mssql
+	Relational Databases
+	Databases
+--------------------------- data algorithms
+	Data Mining Algorithms
+	Java Algorithms Data Structures
+	Java Algorithms Data Structures Python Javascript
+--------------------------- data analysis
+	Big Data Analysis
+	Qualitative Data Analysis
+	Quantitative Data Analysis
+	Data Analysis
+	Quatitative Data Analysis
+	Exploratory Data Analysis
+	Basic Data Analysis
+	Statistical Data Analysis
+--------------------------- data analytics
+	Big Data Analytics
+	Data Analytics
+--------------------------- data architecture
+	Data Architecture
+	Data Warehouse Architecture
+--------------------------- data management
+	Scientific Data Management
+	Clinical Data Management
+	Data Management
+	Master Data Management
+--------------------------- data mining
+	Data Mining Algorithms
+	Data Mining Technique
+	Data Mining
+--------------------------- data science
+	Data Sciences (Coursera - Introduction To Data Science)
+	Data Science
+--------------------------- data sciences
+	Data Sciences (Coursera - Introduction To Data Science)
+	Data Sciences
+--------------------------- data structures
+	Java Algorithms Data Structures
+	Data Structures
+	Java Algorithms Data Structures Python Javascript
+--------------------------- database
+	Graphic Database
+	Database Development
+	Database Administrator For Db2 Luw
+	Database
+	Database Administration
+	Database Design
+	Database Management
+	Creating A Database Using Ms Excel
+	Database Design : Oracle
+	Database Admin
+	Database Design: Mssql
+	Database Administrator
+	Database Management System
+	Oracle Database
+	Relational Databases
+	Databases
+--------------------------- database administrator
+	Database Administrator
+	Database Administrator For Db2 Luw
+--------------------------- database design
+	Database Design : Oracle
+	Database Design
+--------------------------- database management
+	Database Management System
+	Database Management
+--------------------------- database oracle
+	Database Design : Oracle
+	Oracle Database
+--------------------------- databases
+	Relational Databases
+	Databases
+--------------------------- db2
+	Database Administrator For Db2 Luw
+	Db2
+--------------------------- dcf
+	Dcf Valuation
+	Dcf
+--------------------------- de
+	Liderança De Equipe
+	Gestão De Empresas Ligada Ramo De Combustiveis
+--------------------------- decision
+	Decision Making
+	Decision Trees
+	Mathemathical Decision Making Modeling
+	Decision-Making Skills
+	Decision-Making
+--------------------------- decision making
+	Mathemathical Decision Making Modeling
+	Decision Making
+--------------------------- decision-making
+	Decision-Making Skills
+	Decision-Making
+--------------------------- defect
+	Defect Life Cycle
+	Defect Tracking
+--------------------------- delivery
+	Delivery Excellence
+	Project Delivery
+	Service Delivery
+	Global Delivery
+--------------------------- demand
+	Demand Generation
+	Demand Management
+--------------------------- derivatives
+	Energy Derivatives
+	Derivatives
+--------------------------- design
+	Computer Aided Design (Cad)
+	System Design
+	Information Design
+	Object Oriented Design
+	Interior Design
+	Business Process Design
+	Design Specifications
+	Graphic Design
+	Questionnaire Design
+	Service Design
+	User-Centered Design
+	Engineering Design
+	Project Design
+	Pavement Design
+	Instructional Design
+	Design Of Experiments
+	Design Thinking
+	Biomedical Device Design
+	Research Design
+	Fashion Design
+	Network Design
+	Process Design
+	Database Design
+	Wells Design
+	Exhibit Design
+	Ux Design
+	Control Systems Design
+	Circuit Design
+	Vlsi Design
+	Database Design : Oracle
+	Application Design
+	Dashboard Design
+	Web Design
+	Renewable Energy Design
+	Design Strategy
+	Facility Design
+	Design Patterns
+	Digital Design
+	Curriculum Design
+	Gui Design
+	Algorithmic Design
+	Structural Design
+	Drug Design
+	Survey Design
+	Electronic Design (5+ Years Experience)
+	Design For Manufacturing
+	Product Design
+	Architectural Design
+	Design Audit
+	Design
+	Test Design
+	Interface Design
+	Solutions Design
+	Software Design
+	User Interface Design
+	Design Of Analog
+	Industrial Designer
+	Graphic Designer
+	Moodle Web Designer
+	Joomla Web Designer
+--------------------------- designer
+	Industrial Designer
+	Graphic Designer
+	Moodle Web Designer
+	Joomla Web Designer
+--------------------------- desk
+	Help Desk Support
+	Service Desk
+--------------------------- desktop
+	Desktop Hardware
+	Desktop Systems
+	Desktop Development
+	Linux Desktop
+	Desktop Publishing
+	Desktop Configuration
+	Desktop Application Support
+--------------------------- dev
+	Infra Dev
+	Biz Dev
+--------------------------- development
+	Content Development
+	Development Management
+	Process Development
+	Website Development Skills
+	Sustainable Development
+	Leadership Development
+	Brand Development
+	Strategic Development
+	Economic Development Research
+	Database Development
+	Community Development
+	Key Account Development
+	Strategy Development
+	Website Development
+	Business Concept Development
+	Desktop Development
+	International Development
+	International Business Development
+	Organizational Development
+	Taxonomy Development
+	Business Development
+	Program Development
+	Web Development
+	roid Development
+	Web Application Development
+	Oracle Development (Pl
+	Web Development Using Asp.Net C#
+	Application Development
+	Software Development Life Cycle
+	Product Development
+	Business Development Skills
+	Development
+	Test Driven Development
+	J2Ee Application Development
+	New Business Development
+	Agile Application Development
+	Career Development
+	Software Development (20+ Years Experience)
+	Business Plans Development
+	Software Development
+	Wordpress Site Development
+	Game Development
+	Menu Development
+	Strategic Partnership Development
+	Python Development
+	Market Development
+	Trade Development
+	Ios Development
+	Sales Force Development
+	Human Resource Development
+--------------------------- development skills
+	Business Development Skills
+	Website Development Skills
+--------------------------- device
+	Surgical Device Sales
+	Windos Device Driver
+	Device Modeling
+	High-Speed Electronic Devices
+	Mobile Devices
+	Medical Devices
+	Biomedical Device Design
+--------------------------- digital
+	Digital Media
+	Digital Marketing
+	Digital Image Processing
+	Digital Marketing Consultant
+	Digital Design
+	Digital Signal Processing
+	Digital Strategy
+--------------------------- digital marketing
+	Digital Marketing
+	Digital Marketing Consultant
+--------------------------- digital processing
+	Digital Image Processing
+	Digital Signal Processing
+--------------------------- distributed
+	Distributed Team Management
+	Distributed Systems
+--------------------------- document
+	Document Drafting
+	Document Management
+--------------------------- documentation
+	Technical Documentation
+	Software Documentation
+	Documentation
+--------------------------- driven
+	Event Driven Architecture
+	Test Driven Development
+--------------------------- due diligence
+	Financial Due Diligence
+	Due Diligence
+--------------------------- dynamic
+	Dynamic Programming
+	Dynamic
+	Multi-Body Dynamics
+	Advanced Molecular Dynamics
+	Multibody Dynamics
+	Molecular Dynamics
+	Vehicle Dynamics
+--------------------------- e vendita
+	Pnl E Vendita
+	Vendita Emozionale E Sensoriale
+--------------------------- e-business
+	E-Business Consulting
+	Oracle E-Business Suite
+--------------------------- e-commerce
+	E-Commerce Seo
+	E-Commerce
+--------------------------- earth
+	Earth Science
+	Earth Observation
+--------------------------- eclipse
+	Eclipse Cdt
+	Eclipse
+--------------------------- econometrics
+	Spatial Econometrics
+	Econometrics
+--------------------------- economic
+	Economic Analysis
+	Economic Development Research
+	Economic Research
+	Business Economics
+	Health Economics
+	Antitrust Economics
+	Basic Economics
+	Economics
+--------------------------- economic research
+	Economic Development Research
+	Economic Research
+--------------------------- economics
+	Business Economics
+	Economics
+	Basic Economics
+	Antitrust Economics
+	Health Economics
+--------------------------- editing
+	Image Editing
+	Editing
+	Video Editing
+--------------------------- education
+	Education
+	Higher Education
+	Education Management
+	Dance Education
+	Environmental Education
+	Educational Leadership
+	Educational Technology
+--------------------------- educational
+	Educational Leadership
+	Educational Technology
+--------------------------- elearning
+	Elearning
+	Elearning Proffessional
+--------------------------- electrical
+	Electrical Safety
+	Electrical Engineering
+--------------------------- electron microscopy
+	Tunneling Electron Microscopy
+	Electron Microscopy
+	Scanning Electron Microscopy
+--------------------------- electronic
+	Electronic Engineering
+	Electronic Music
+	Electronic Design (5+ Years Experience)
+	High-Speed Electronic Devices
+	Electronics
+	Electronics Engineering
+	Power Electronics
+--------------------------- embedded
+	Engineering Of Embedded System
+	Embedded C
+--------------------------- emergency
+	Emergency Management
+	Emergency Room
+--------------------------- emotional intelligence
+	Emotional Intelligence Coaching
+	Emotional Intelligence
+--------------------------- end-to-end
+	End-To-End
+	End-To-End Testing
+--------------------------- energy
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+	Renewable Energy
+	Sustainable Energy
+	Energy Audits
+	Energy Policy
+	Energy Efficiency
+	Renewable Energy Design
+	Energy Derivatives
+	Energy
+	Energy Management
+	Energy Markets
+	Solar Energy
+	Energy Conservation
+	Alternative Energy
+	Optimisation Of Energy Systems
+--------------------------- energy systems
+	Optimisation Of Energy Systems
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+--------------------------- engagement
+	Engagement Management
+	Customer Engagement
+--------------------------- engine
+	Google App Engine
+	Recommendation Engine Modeling
+	Search Engine Technology
+	Rule Engine
+--------------------------- engineer
+	Pro Engineer
+	Engineer
+	Electronic Engineering
+	Construction Engineering
+	Control System Engineering
+	Computer Engineering
+	Software Engineering
+	Rf Engineering
+	Engineering Management
+	Automotive Engineering
+	D Engineering
+	Engineering Skils
+	Data Engineering
+	Mechanical Engineering
+	Structural Engineering
+	Chemical Engineering
+	Cost Control Engineering
+	Mining Engineering
+	Industrial Engineering
+	Systems Engineering
+	Engineering Design
+	Network Engineering
+	Electrical Engineering
+	Engineering Of Embedded System
+	Genetic Engineering
+	Manufacturing Engineering
+	Biomedical Engineering
+	Electronics Engineering
+	Environmental Engineering
+	Directional Engineer
+	Process Engineering
+	Engineering
+	Civil Engineering
+	Cambridge Engineering Selector(Ces) Software
+	Wide Range Of Software Engineering
+	Telecommunication Engineering
+	Test Engineering
+	Petroleum Engineer
+--------------------------- engineering
+	Electronic Engineering
+	Biomedical Engineering
+	Systems Engineering
+	Test Engineering
+	Wide Range Of Software Engineering
+	Manufacturing Engineering
+	Engineering Design
+	Electronics Engineering
+	Rf Engineering
+	Civil Engineering
+	D Engineering
+	Engineering Of Embedded System
+	Industrial Engineering
+	Electrical Engineering
+	Mining Engineering
+	Environmental Engineering
+	Telecommunication Engineering
+	Construction Engineering
+	Control System Engineering
+	Cambridge Engineering Selector(Ces) Software
+	Automotive Engineering
+	Process Engineering
+	Engineering Management
+	Chemical Engineering
+	Data Engineering
+	Genetic Engineering
+	Mechanical Engineering
+	Network Engineering
+	Software Engineering
+	Structural Engineering
+	Cost Control Engineering
+	Engineering Skils
+	Engineering
+	Computer Engineering
+--------------------------- engineering software
+	Cambridge Engineering Selector(Ces) Software
+	Software Engineering
+--------------------------- engineering system
+	Engineering Of Embedded System
+	Control System Engineering
+--------------------------- english
+	Fully Bilingual (Native Spanish - Expert English Level)
+	English Language: Professional Working Proficiency.
+	Business English
+	English
+--------------------------- enterprise
+	Enterprise Content Management
+	Enterprise Software
+	Blackberry Enterprise Server Administration
+	Enterprise Collaboration
+	Mobile Enterprise
+	Enterprise Search
+	Blackberry Enterprise Server
+	Enterprise Valuation
+	Enterprise
+	Java Enterprise Edition
+	Enterprise Systems Architecture
+	Red Hat Enterprise Linux
+	Enterprise Architecture
+	Enterprise Resource Planning
+--------------------------- enterprise architecture
+	Enterprise Systems Architecture
+	Enterprise Architecture
+--------------------------- entity
+	Entity Life Cycles
+	Entity Framework
+--------------------------- entrepreneurship
+	Early Stage Entrepreneurship
+	Social Entrepreneurship
+	Entrepreneurship Management
+	Entrepreneurship
+--------------------------- environmental
+	Environmental Consulting
+	Environmental Management Systems
+	Environmental Education
+	Environmental Policy
+	Environmental Awareness
+	Environmental Engineering
+--------------------------- equipment
+	Test Equipment
+	Capital Equipment
+	Capital Equipment Sales
+--------------------------- equity
+	Equity Research
+	Equity Funding
+	Private Equity
+	Equity Trading
+--------------------------- erp
+	Oracle Erp
+	Erp
+--------------------------- estimation
+	Project Estimation
+	Test Estimation
+--------------------------- etl
+	Etl Tools
+	Etl
+--------------------------- event
+	Event Driven Architecture
+	Event Management
+	Event Planning
+	Event Management Software
+--------------------------- event management
+	Event Management Software
+	Event Management
+--------------------------- evolutionary
+	Multi-Objective Evolutionary Optimization
+	Evolutionary Biology
+--------------------------- excel
+	Excel Vba
+	Excel
+	Process Excellence
+	Operational Excellence
+	Microsoft Excel
+	Excel Powerpivot
+	Excel Services
+	Creating A Database Using Ms Excel
+	Excel Dashboards
+	Excellent Programmer
+	Excellent Operational Managemnt Skill
+	Statistical Analysis Using Ms Excel
+	Advanced Excel
+	Excellent Analytical
+	Excel Modeling
+	Excellent Communication
+	Delivery Excellence
+--------------------------- excellence
+	Process Excellence
+	Operational Excellence
+	Delivery Excellence
+--------------------------- excellent
+	Excellent Programmer
+	Excellent Operational Managemnt Skill
+	Excellent Analytical
+	Excellent Communication
+--------------------------- exchange
+	Foreign Exchange
+	Microsoft Exchange
+--------------------------- execution
+	Project Execution
+	Test Execution
+	Strategy Execution
+--------------------------- exhibit
+	Exhibit Preparation
+	Exhibit Design
+--------------------------- experience
+	Experience With Machine Learning Algorithms
+	User Experience
+	Customer Experience
+	Software Development (20+ Years Experience)
+	Pharmacist Experience
+	Supervisory Experience
+	Military Experience
+	Customer Experience Management
+	Electronic Design (5+ Years Experience)
+--------------------------- expert
+	Patent  Expert
+	Sql Expert
+	Fully Bilingual (Native Spanish - Expert English Level)
+--------------------------- exploration
+	Gas Exploration
+	Mineral Exploration
+--------------------------- exploratory
+	Exploratory Testing
+	Exploratory Data Analysis
+--------------------------- export
+	Export Finance
+	Export Promotion
+	Export Marketing
+	Export
+--------------------------- expression
+	Protein Expression
+	Expression Blend
+--------------------------- facilitation
+	Facilitation
+	Brainstorm Facilitation
+	Workshop Facilitation
+--------------------------- field
+	Quantum Field Theory
+	Field Service
+--------------------------- film
+	Film Photography
+	Film Production
+--------------------------- finance
+	Project Finance Advisory
+	Managerial Finance
+	Finance
+	Quantitative Finance
+	Personal Finance
+	Finance Consulting
+	Corporate Finance
+	Basic Finance
+	Project Finance
+	Export Finance
+--------------------------- financial
+	Financial Statement Analysis
+	Financial Controlling
+	Public Financial Management
+	Financial Analysis
+	Financial Modeling
+	Financial Risk
+	Financial Planning
+	Financial Management
+	Financial Audits
+	Financial Markets
+	Strategic Financial Planning
+	Financial Regulation
+	Financial Modelling
+	Financial Accounting
+	Financial Due Diligence
+	Financial Reporting
+--------------------------- financial analysis
+	Financial Statement Analysis
+	Financial Analysis
+--------------------------- financial management
+	Public Financial Management
+	Financial Management
+--------------------------- financial planning
+	Strategic Financial Planning
+	Financial Planning
+--------------------------- fixed income
+	Fixed Income Trading
+	Fixed Income
+--------------------------- football
+	Football
+	Gaelic Football
+--------------------------- force
+	Sales Force Development
+	Atomic Force Microscopy
+	Air Force
+--------------------------- forms
+	Forms 6I
+	Forms)
+--------------------------- framework
+	Entity Framework
+	Coso Framework
+	Scrapy Framework
+--------------------------- french
+	Conversational French
+	French
+--------------------------- functional
+	Functional Mathematics
+	Functional Programming
+	Functional Genomics
+	Functional Analysis
+	Functional Testing
+	Functional Specifications
+--------------------------- funds
+	Index Funds
+	Hedge Funds
+--------------------------- game
+	Game Testing
+	Game Development
+	Game Theory
+--------------------------- gathering
+	Requirement Gathering
+	Requirements Gathering
+--------------------------- general
+	General Practice
+	General Management
+	General Surgery
+	General Business Analysis
+--------------------------- generation
+	Test Case Generation
+	Lead Generation
+	Power Generation
+	Demand Generation
+--------------------------- genetic
+	Genetic Engineering
+	Genetic Programming
+	Genetic Algorithms
+	Population Genetics
+	Genetics
+--------------------------- genomics
+	Functional Genomics
+	Genomics
+--------------------------- german
+	Fluent In The German Language
+	German - Speak
+	German
+	German Language: Elementary Proficiency
+--------------------------- global
+	Global Business
+	Global Delivery
+--------------------------- google
+	Google Chrome Extensions
+	Google Adwords
+	Google Apps
+	Google Analytics
+	Google App Engine
+	Google Webmaster Tools
+	Google Docs
+	Google Maps Api
+--------------------------- government
+	Local Government
+	Government Liaison
+	Government
+--------------------------- graph
+	Graph Algorithms
+	Graph Analysis
+	Graphic Database
+	Graphic Designer
+	Motion Graphic
+	Graphic Design
+--------------------------- graphic
+	Graphic Designer
+	Graphic Design
+	Graphic Database
+	Motion Graphic
+--------------------------- green
+	Green Technology
+	Green Belt
+	Green Building
+--------------------------- gui
+	Gui Design
+	Gui
+--------------------------- hadoop
+	Hadoop Ecosystem
+	Hadoop
+--------------------------- hardware
+	Network Hardware
+	Hardware Verification
+	Troubleshooting: Hardware
+	Hardware
+	Computer Hardware
+	Desktop Hardware
+--------------------------- health
+	Health Policy Analysis
+	Health Economics
+	Health Informatics
+	Health
+--------------------------- hibernate
+	Hibernate 3.1
+	Hibernate
+--------------------------- high
+	High Availability
+	High Performance Computing
+--------------------------- hospitality
+	Hospitality Management
+	Hospitality
+	Hospitality Industry
+--------------------------- hp
+	Hp Management
+	Hp Ppm
+	Hp Service Manager
+--------------------------- hr
+	Hr Outsourcing
+	Hr Consulting
+	Hr
+--------------------------- html
+	Html 5
+	Html
+--------------------------- human
+	Human Computer Interaction
+	Human Resource Development
+	Human Resources
+	Human Rights
+	Technology For Human Capital Management
+--------------------------- hydrology
+	Surface Water Hydrology
+	Hydrology
+--------------------------- ibm bi
+	Ibm Bi
+	Ibm Cognos Bi
+--------------------------- identity
+	Identity Management
+	Corporate Identity
+	Identity
+--------------------------- illustrator
+	Adobe Illustrator
+	Illustrator
+--------------------------- image
+	Image Analysis
+	Digital Image Processing
+	Image Editing
+	Image Processing
+--------------------------- image processing
+	Digital Image Processing
+	Image Processing
+--------------------------- implementation
+	New Product Launches 360 Degree Strategy To Implementation
+	Implementation
+	Kpi Implementation
+--------------------------- improvement
+	Continuous Improvement
+	Process Improvement
+	Business Process Improvement
+--------------------------- in languages
+	Fluency In About Six Different Languages
+	Fluent In Indian Languages
+--------------------------- income
+	Income Statement
+	Fixed Income
+	Fixed Income Trading
+--------------------------- index
+	Index Calculation
+	Index Funds
+--------------------------- industrial
+	Industrial Designer
+	Industrial Engineering
+--------------------------- industry
+	Hospitality Industry
+	Pharmaceutical Industry
+	Semiconductor Industry
+--------------------------- informatica
+	Informatica Powercenter
+	Informatica Power Center 8.1
+	Informatica
+--------------------------- informatics
+	Theoretical Informatics
+	Health Informatics
+--------------------------- information
+	Information Search
+	Information Security
+	Information Technology
+	Information Strategy
+	Information Management
+	Geographical Information System (Gis)
+	Quantum Information
+	Information Extraction
+	Proficiency With Information
+	Information Architecture
+	Information Retrieval
+	Information Technology Management
+	Analysis Of Information
+	Information Systems
+	Information Design
+--------------------------- information management
+	Information Management
+	Information Technology Management
+--------------------------- information technology
+	Information Technology Management
+	Information Technology
+--------------------------- innovation
+	Innovation Expertise
+	Innovation Consulting
+	Civic Innovation
+	Business Innovation Skills
+	Innovation Management
+	Innovation
+	Product Innovation
+--------------------------- insurance
+	Life Insurance
+	Casualty Insurance
+--------------------------- integration
+	Integration Testing
+	Integration
+	Data Integration
+	System Integration Testing
+--------------------------- integration testing
+	Integration Testing
+	System Integration Testing
+--------------------------- intellectual property
+	Intellectual Property Infringement
+	Intellectual Property
+	Intellectual Property Research
+--------------------------- intelligence
+	Emotional Intelligence Coaching
+	Competitive Intelligence
+	Emotional Intelligence
+	Artificial Intelligence
+	Market Intelligence
+	Business Intelligence Tools
+	Business Intelligence
+	Basic Artificial Intelligence
+--------------------------- intercultural
+	Intercultural Communication
+	Intercultural Skills
+--------------------------- interface design
+	Interface Design
+	User Interface Design
+--------------------------- internal
+	Internal Communications
+	Internal Controls
+	Internal Audit
+--------------------------- international
+	International Real Estate
+	International Tax
+	International Project Management
+	International Sales
+	International Trade
+	International Law
+	International Relations
+	International Business In China
+	International Arbitration
+	International Marketing
+	International Business Law
+	International Development
+	International Business
+	International Business Development
+	International Business Strategy
+--------------------------- international business
+	International Business Law
+	International Business
+	International Business In China
+	International Business Development
+	International Business Strategy
+--------------------------- international development
+	International Business Development
+	International Development
+--------------------------- international law
+	International Business Law
+	International Law
+--------------------------- internet
+	Internet
+	Internet Tools
+	Internet Services
+	Internet Of Things
+	Internet Marketing
+--------------------------- interpersonal
+	Outstanding Interpersonal Communication Skills
+	Interpersonal Skill
+	Interpersonal Skills
+	Interpersonal Relationship Skills
+--------------------------- interpersonal skills
+	Interpersonal Relationship Skills
+	Outstanding Interpersonal Communication Skills
+	Interpersonal Skills
+--------------------------- inventory
+	Vendor Managed Inventory
+	Inventory Management
+	Inventory Control
+--------------------------- investment
+	Computational Investment
+	Investment Banking
+	Social Return On Investment
+	Investment Management
+	Alternative Investments
+	Investments
+--------------------------- investments
+	Alternative Investments
+	Investments
+--------------------------- ios
+	Cisco Ios
+	Ios Development
+	Ios
+--------------------------- ip
+	Ip Networking
+	Ip
+--------------------------- iso
+	Iso 20000
+	Iso 27000
+	Iso
+--------------------------- istqb
+	Istqb Certified
+	Istqb
+--------------------------- it
+	It Infastructure
+	It Project Lifecycle
+	It Architecture
+	It Strategy
+	Itil V3 Foundations Certified
+	Itil
+	It  Systems
+	It Systems
+	It Operations
+	It Management Software
+	It Service Management
+	It Management
+	It Solutions
+	It Outsourcing
+	It
+--------------------------- it management
+	It Management Software
+	It Service Management
+	It Management
+--------------------------- it systems
+	It  Systems
+	It Systems
+--------------------------- itil
+	Itil V3 Foundations Certified
+	Itil
+	Itil Process
+	Itil Certified
+--------------------------- j2ee
+	J2Ee Application Development
+	J2Ee
+--------------------------- japanese
+	Languages: Japanese
+	Japanese Language
+--------------------------- java
+	Java Algorithms Data Structures
+	Java Enterprise Edition
+	Sun Certified Java Programmer
+	Java
+	Java Algorithms Data Structures Python Javascript
+	Javascript
+	Java Programming
+	Know  Java
+	Core Java
+	Java Programmer
+	Css Javascript
+--------------------------- java algorithms data structures
+	Java Algorithms Data Structures
+	Java Algorithms Data Structures Python Javascript
+--------------------------- java programmer
+	Sun Certified Java Programmer
+	Java Programmer
+--------------------------- javascript
+	Java Algorithms Data Structures Python Javascript
+	Javascript
+	Css Javascript
+--------------------------- jboss
+	Jboss
+	Jboss Seam
+	Jboss Portal
+	Jboss Application Server
+--------------------------- job
+	Job Search Advice
+	Job Scheduling
+	Job Search Support
+--------------------------- job search
+	Job Search Support
+	Job Search Advice
+--------------------------- joomla
+	Joomla Web Designer
+	Joomla
+--------------------------- journalism
+	Data Journalism
+	Journalism
+--------------------------- key account
+	Key Account Development
+	Key Account Management
+--------------------------- knowledge
+	Basic Operations Knowledge
+	Knowledge Management
+	Basic Machine Learning Knowledge
+--------------------------- l
+	L Analysis
+	L
+	L 5B
+	L Management
+--------------------------- labview
+	Ni Labview
+	Labview
+--------------------------- lamp
+	Lamp
+	Lamp Administration
+--------------------------- language
+	Language Skills
+	Natural Language Processing
+	Fluency In About Six Different Languages
+	Programming Languages
+	Languages
+	Advanced Acl (Audit Control Language)
+	Multilungual ( I Learn Too Fast A New Language)
+	Fluent In The German Language
+	Japanese Language
+	Fluent In Indian Languages
+	Languages Translation
+	Language Teaching
+	German Language: Elementary Proficiency
+	English Language: Professional Working Proficiency.
+--------------------------- laser
+	Laser
+	Laser Spectroscopy
+	Laser Interference Lithography
+--------------------------- law
+	Competition Law
+	Law
+	Copyright Law
+	Consumer Law
+	International Law
+	Contract Law
+	Corporate Law
+	Comparative Law
+	Tax Law
+	Eu Competition Law
+	International Business Law
+	European Law
+	Administrative Law
+--------------------------- ldap
+	Ldap Administration
+	Ldap
+--------------------------- lead
+	Lead Management
+	Lead Generation
+--------------------------- leadership
+	Educational Leadership
+	Management Consulting; Leadership Coaching
+	Leadership Quality
+	Leadership Development
+	Thought Leadership
+	Technical Leadership
+	Youth Leadership
+	Change Leadership
+	Leadership
+	Multi-Cultural Team Leadership
+	Team Leadership
+	Research Leadership
+	Military Leadership
+	Organizational Leadership
+	Cross-Functional Team Leadership
+--------------------------- lean
+	Lean Safety
+	Lean Initiatives
+	Lean Six Sigma
+	Lean Manufacturing
+	Lean
+	Lean Startup
+--------------------------- learn
+	Ability To Learn
+	Reinforcement Learning
+	Multilungual ( I Learn Too Fast A New Language)
+	Willing To Learn New Skills
+--------------------------- legal
+	Legal Skills
+	Legal
+--------------------------- level
+	Fully Bilingual (Native Spanish - Expert English Level)
+	1St Level Troubleshooting (Xp
+--------------------------- life
+	Life Sciences
+--------------------------- life cycle
+	Defect Life Cycle
+	Software Development Life Cycle
+	Software Testing Life Cycle
+	Software Lifecycle
+	Product Lifecycle Management
+	It Project Lifecycle
+--------------------------- linear
+	Linear Regression
+	Linear Optimization
+	Linear Models
+--------------------------- linear algebra
+	Numerical Linear Algebra
+	Linear Algebra
+--------------------------- linguistics
+	Computational Linguistics
+	Linguistics
+--------------------------- linux
+	Linux System Administration
+	Linux
+	Linux Desktop
+	Red Hat Enterprise Linux
+	Red Hat Linux
+	Linux Server
+--------------------------- lithography
+	Laser Interference Lithography
+	Lithography
+--------------------------- logic
+	Fuzzy Logic
+	Ladder Logic
+	Logic Programming
+--------------------------- logistics
+	Logistics Regression
+	Logistics
+--------------------------- mac
+	Mac
+	Mac Os X
+--------------------------- machine learning
+	Machine Learning (Coursera - Machine Learning)
+	Machine Learning
+	"Advanced Beginner" Machine Learning
+	Basic Machine Learning Knowledge
+	Experience With Machine Learning Algorithms
+	Machine Learning)
+--------------------------- mainframe
+	Mainframe Architecture
+	Mainframe
+--------------------------- maintenance
+	Maintenance Of Data Dictionaries
+	Maintenance Management
+--------------------------- making
+	Mathemathical Decision Making Modeling
+	Jewlery Making
+	Policy Making
+	Decision Making
+--------------------------- managed
+	Managed Services
+	Managed Care
+	Vendor Managed Inventory
+--------------------------- management
+	Marketing Management
+	Management
+	People Management
+	Development Management
+	Office Management
+	Product Management
+	Business Relationship Management
+	Management Accounting
+	Information Technology Management
+	Financial Management
+	Entrepreneurship Management
+	Project Management
+	Data Management
+	Sales Management
+	Magazine Management
+	Construction Management
+	Software Project Management
+	Category Management
+	It Management
+	Transition Management
+	Project Portfolio Management
+	Investment Management
+	Account Management
+	Product Lifecycle Management
+	Carbon Management
+	Energy Management
+	Research Project Management
+	Service Management As A Practice
+	Credit Management
+	Release Management
+	Incident Management
+	Knowledge Management
+	Ngo Management
+	Business Management
+	Stakeholder Management
+	Relationship Management
+	Event Management
+	Operations Management
+	Corporate Website Management
+	Partner Management
+	Change Management
+	Technology Management
+	Contract Management
+	Maintenance Management
+	Innovation Management
+	Engagement Management
+	Project Management Skills
+	Project Management In Tenders
+	Master Data Management
+	Strategic Management
+	Content Management
+	Critical Business Management
+	Technology For Human Capital Management
+	Nursing Management
+	Performance Management
+	Portfolio Management
+	Programme Management
+	Education Management
+	General Management
+	Hp Management
+	Database Management System
+	Hospitality Management
+	L Management
+	Scheduling Management
+	Team Management
+	Business Process Management
+	Test Management
+	Management Consulting; Leadership Coaching
+	Channel Management
+	Engineering Management
+	Project Scope Management
+	Strategic Alliance Management
+	Team Management Skills
+	Stormwater Management
+	Project Management Office
+	It Management Software
+	Vendor Management
+	Customer Experience Management
+	Brand Management
+	Hotel Management
+	Safety Management System
+	Lead Management
+	Operation Management
+	Management Consulting
+	Scientific Data Management
+	Key Account Management
+	Project Management.
+	Cost Management.
+	Document Management
+	Identity Management
+	Talent Management
+	It Service Management
+	Sports Management
+	Demand Management
+	Software Asset Management
+	Resource Management
+	Information Management
+	Safety Management
+	Campaign Management
+	Distributed Team Management
+	Event Management Software
+	Inventory Management
+	Growth Management
+	International Project Management
+	Sla Management
+	Cash Management
+	Order Management
+	Public Financial Management
+	Supply Chain Management
+	Quality Management
+	Pnl Management
+	Commodity Risk Management
+	Client Management Skills.
+	Enterprise Content Management
+	Management Project
+	Executive Management
+	Agile Project Management
+	Social Media Ads Management
+	Emergency Management
+	Applied Project Management
+	Asset Management
+	Non-Profit Management
+	Service Operations Management
+	Public Management
+	Time Management
+	Environmental Management Systems
+	Risk Management
+	Database Management
+	Treasury Management
+	Program Management
+	Manufacturing Operations Management
+	Clinical Data Management
+	Business Management.
+--------------------------- management office
+	Project Management Office
+	Office Management
+--------------------------- management project
+	Management Project
+	Agile Project Management
+	Project Portfolio Management
+	Project Management Skills
+	Research Project Management
+	Project Management
+	Software Project Management
+	International Project Management
+--------------------------- management skills
+	Team Management Skills
+	Project Management Skills
+--------------------------- management software
+	Event Management Software
+	Software Project Management
+	It Management Software
+	Software Asset Management
+--------------------------- management system
+	Safety Management System
+	Database Management System
+--------------------------- manager
+	Sun Access Manager
+	Hp Service Manager
+	Managerial Finance
+	Managerial
+	Managerial Skills
+--------------------------- managerial
+	Managerial Skills
+	Managerial Finance
+	Managerial
+--------------------------- manufacturing
+	Manufacturing
+	Lean Manufacturing
+	Design For Manufacturing
+	Manufacturing Operations Management
+	Non-Conventional Manufacturing
+	Manufacturing Engineering
+--------------------------- map
+	Open Street Map
+--------------------------- mapping
+	Map Reduce
+	Data Mapping
+	Process Mapping
+	Value Stream Mapping
+--------------------------- market
+	Market Planning
+	Qualitative Market Research
+	Multi-Channel Marketing
+	Social Marketing
+	Energy Markets
+	Commodity Markets
+	Sports Marketing
+	Marketing Management
+	Digital Marketing
+	Marketing Communications
+	Social Media Marketing
+	Marketing Strategy
+	Email Marketing
+	Online Marketing
+	Channel Marketing
+	International Marketing
+	Marketing Planning
+	Product Marketing
+	Integrated Marketing
+	Capital Markets
+	Shopper Marketing
+	Digital Marketing Consultant
+	Marketing Research
+	Export Marketing
+	Market Development
+	Market Basket Analysis
+	Marketing
+	Market Analysis
+	Solutions Marketing
+	Market Study
+	Market Research
+	Marketing Analytics
+	Stock Market
+	Market Risk
+	Internet Marketing
+	Market Intelligence
+	Financial Markets
+--------------------------- market analysis
+	Market Basket Analysis
+	Market Analysis
+--------------------------- market research
+	Qualitative Market Research
+	Market Research
+--------------------------- master
+	Certified Scrum Master Csm
+	Master Data Management
+	Scrum Master Csm
+--------------------------- materials
+	Materials
+	Materials Science
+--------------------------- mathematical
+	Bsc Mathematical Science
+	Mathematical Analysis
+	Mathematical Statistics
+	Mathematical Modeling
+--------------------------- mathematics
+	Applied Mathematics
+	Mathematics
+	Mathematics (Theoretical)
+	Functional Mathematics
+	Ill-Posed Problems Of Mathematics
+--------------------------- mechanical
+	Mechanical Drawings
+	Mechanical Testing
+	Mechanical Inspection
+	Mechanical Engineering
+	Autocad Mechanical
+	Mechanical
+--------------------------- mechanics
+	Mechanics
+	Rock Mechanics
+	Fluid Mechanics
+	Quantum Mechanics
+--------------------------- media
+	Digital Media
+	Social Media Marketing
+	New Media
+	Social Media
+	Social Media Ads Management
+	Social Media Outreach
+--------------------------- medical
+	Medical Sales
+	Medical Devices
+--------------------------- methodologies
+	Rup Methodologies
+	Agile Methodologies
+--------------------------- micro
+        Micro Financing
+	Micro Businesses
+--------------------------- microcontrollers
+	Microcontrollers (Pic
+	Microcontrollers
+--------------------------- microscopy
+	Tunneling Electron Microscopy
+	Confocal Microscopy
+	Microscopy
+	Electron Microscopy
+	Optical Microscopy
+	Scanning Electron Microscopy
+	Atomic Force Microscopy
+--------------------------- microsoft
+	Microsoft Sql Server
+	Microsoft Office
+	Microsoft
+	Microsoft Crm
+	Microsoft Vba
+	Microsoft Powerpoint
+	Microsoft Office;
+	Microsoft Publisher
+	Proficient In Microsoft Word
+	Microsoft Project 2010 Specialist
+	Microsoft Technologies
+	Microsoft Office Sharepoint Server
+	Microsoft Access
+	Microsoft Excel
+	Microsoft Server
+	Microsoft Exchange
+	Microsoft Bi Suite
+	Microsoft Word
+	Ms Office Tools
+	Ms Project
+	Ms Office
+	Statistical Analysis Using Ms Excel
+	Ms Office Skills
+	Creating A Database Using Ms Excel
+--------------------------- microsoft office
+	Microsoft Office Sharepoint Server
+	Microsoft Office
+	Ms Office Tools
+	Ms Office
+	Ms Office Skills
+--------------------------- microsoft server
+	Microsoft Server
+	Microsoft Office Sharepoint Server
+	Microsoft Sql Server
+--------------------------- microsoft word
+	Proficient In Microsoft Word
+	Microsoft Word
+--------------------------- military
+	Military Leadership
+	Military
+	Military Operations
+	Military Experience
+--------------------------- mineral
+	Mineral Processing
+	Mineral Exploration
+--------------------------- mining
+	Mining
+	Text Mining
+	Mining Engineering
+	Underground Mining
+	Opinion Mining
+--------------------------- mobile
+	Mobile Enterprise
+	Mobile Applications
+	Mobile Devices
+	Mobile
+	Mobile Communications
+--------------------------- model
+	Model Building
+	Customer Service Model
+	A Modeling
+	Valuation Modeling
+	Device Modeling
+	Statistical Modeling
+	Entity-Relationship Model
+	Data Modelling
+	Modelling
+	Financial Modeling
+	Excel Modeling
+	Mathematical Modeling
+	Software Modelling
+	3D Modelling
+	Econometric Modeling
+	Data Modeling
+	Recommendation Engine Modeling
+	Mathemathical Decision Making Modeling
+	Water Quality Modeling
+	Molecular Modeling
+	Predictive Modeling
+	Modeling
+	Predictive Modelling
+	Stochastic Modeling
+	Business Modeling
+	Topic Modelling
+	Probabilistic Modelling
+	Financial Modelling
+	Business Modelling
+	Dimensional Modeling
+	Business Model Canvas
+	Model Thinking
+	Markov Models
+	Probabilistic Graphical Models
+	Osi Model
+	Linear Models
+--------------------------- molecular
+	Molecular Modeling
+	Molecular Biology
+	Molecular Cloning
+	Advanced Molecular Dynamics
+	Molecular Dynamics
+--------------------------- molecular dynamics
+	Advanced Molecular Dynamics
+	Molecular Dynamics
+--------------------------- monitoring
+	Monitoring Solutions
+	Intraoperative Monitoring
+--------------------------- monte carlo
+	Monte Carlo
+	Monte Carlo Simulation
+--------------------------- multi-cultural
+	Work In Multi-Cultural
+	Multi-Cultural Team Leadership
+--------------------------- multivariate
+	Multivariate Statistics
+	Multivariate Analysis
+--------------------------- music
+	Electronic Music
+	Music
+--------------------------- mvc
+	Mvc
+	Asp.Net Mvc
+	Mvc Architecture
+--------------------------- natural
+	Natural Resources
+	Natural Language Processing
+--------------------------- needs
+	Conducting Training Needs Assessment
+	Standards Needs
+	Organizational Needs Analysis
+--------------------------- negotiation
+	Negotiation Skills
+	Contract Negotiation
+	Negotiation
+--------------------------- network
+	Radio Network Planning
+	Computer Network Operations
+	Ip Networking
+	Networking
+	Network Optimization
+	Network Administration
+	Network Architecture
+	Social Network Analysis
+	Core Network
+	Radio Network Optimization
+	Network Hardware
+	Network Topology
+	Network Planning
+	Network Security
+	Network Programing
+	Network Engineering
+	Network Operations
+	Network Design
+	Mpls Networking
+	Social Networking
+	Bayesian Networks
+	Neural Networks
+	Artificial Neural Networks
+	Complex Networks
+	Social Networking Websites
+--------------------------- network operations
+	Computer Network Operations
+	Network Operations
+--------------------------- network optimization
+	Radio Network Optimization
+	Network Optimization
+--------------------------- network planning
+	Network Planning
+	Radio Network Planning
+--------------------------- neural networks
+	Artificial Neural Networks
+	Neural Networks
+--------------------------- non-profit
+	Non-Profit Volunteer
+	Non-Profit Management
+--------------------------- nosql
+	Nosql Bigdata
+	Nosql
+--------------------------- numerical
+	Numerical Linear Algebra
+	Numerical Simulation
+	Numerical Analy.
+	Numerical Methods
+	Numerical Analysis
+--------------------------- nursing
+	Nursing
+	Nursing Management
+--------------------------- object oriented
+	Object Oriented Software
+	Object Oriented Design
+--------------------------- octave
+	Gnu Octave
+	Octave
+	Octave Programming
+	Octave ...
+--------------------------- office
+	Front Office
+	Office Management
+	Project Management Office
+--------------------------- online
+	Online Gaming
+	Online Advertising
+	Online Marketing
+--------------------------- open source
+	Open Source
+	Open Source Projects
+--------------------------- operating
+	Operating Systems
+--------------------------- operating room
+	Operating Room
+	Operating Room Sales
+--------------------------- operation
+	Operation Management
+	Operation
+	Streamlining Operations
+	Operations Management
+	Service Operations Management
+	Sales Operations
+	Special Operations
+	Basic Operations Knowledge
+	Computer Network Operations
+	Operations Analysis
+	It Operations
+	Aviation Operations
+	Network Operations
+	Manufacturing Operations Management
+	Operations
+	Operations Research
+	Military Operations
+	Operational Excellence
+	Operational Planning
+	Excellent Operational Managemnt Skill
+--------------------------- optical
+	Optical Microscopy
+	Optical Imaging
+--------------------------- optics
+	Fiber Optics
+	Optics
+--------------------------- optimization
+	Portfolio Optimization
+	Integer Optimization
+	Multi-Objective Evolutionary Optimization
+	Query Optimization
+	Linear Optimization
+	Optimization
+	Radio Network Optimization
+	Combinatorial Optimization
+	Network Optimization
+--------------------------- oracle
+	Oracle Erp
+	Oracle Soa
+	Oracle Rac
+	Oracle
+	Sql Oracle
+	Oracle Database
+	Oracle Development (Pl
+	Oracle Sql
+	Database Design : Oracle
+	Oracle E-Business Suite
+	Oracle Crm
+	Oracle Bi
+	Oracle Adf
+	Oracle Data Integrator
+	Oracle Dba
+	Oracle Data Miner
+--------------------------- organization
+	Organization Of Events
+	Organization
+	Organizational
+	Organizational Skills
+	Organizational Development
+	Organizational Leadership
+--------------------------- organizational analysis
+	Organizational Analysis
+	Organizational Needs Analysis
+--------------------------- oriented
+	Object Oriented Software
+	Customer Oriented
+	Object Oriented Design
+--------------------------- os x
+	Os X
+	Mac Os X
+--------------------------- outreach
+	Outreach Skills
+	Social Media Outreach
+	Community Outreach
+	Public Outreach
+--------------------------- outsourcing
+	It Outsourcing
+	Outsourcing
+	Hr Outsourcing
+--------------------------- patent
+	Patent  Expert
+	Patent Searching
+--------------------------- people
+	People Skills
+	People Management
+--------------------------- performance
+	Performance Analysis
+	High Performance Computing
+	Performance Management
+	Performance Point
+	Performance Testing
+	Performance Tuning
+--------------------------- perl
+	Perl Script
+	Perl
+--------------------------- personal
+	Personal Finance
+	Personal Assistant
+--------------------------- pharmaceutical
+	Pharmaceutical Industry
+	Pharmaceutical Technology
+--------------------------- pharmacist
+	Pharmacist
+	Pharmacist Experience
+--------------------------- photography
+	Film Photography
+	Photography
+--------------------------- photoshop
+	Adobe Photoshop
+	Photoshop
+--------------------------- physics
+	Statistical Physics
+	Computational Physics
+	Biological Physics
+	Physics
+	Experimental Physics
+	Theoretical Physics
+	Particle Physics
+--------------------------- pig
+	Apache Pig
+	Pig
+--------------------------- pitching
+	Creative Pitching
+	Pitching Ideas
+--------------------------- plan
+	Capacity Planning
+	Strategic Planning
+	Test Planning
+	Project Planning
+	Enterprise Resource Planning
+	Operational Planning
+	Network Planning
+	Lesson Planning
+	Technology Planning
+	Event Planning
+	Business Planning
+	Financial Planning
+	Planning Skills
+	Market Planning
+	Planning
+	Radio Network Planning
+	Strategic Financial Planning
+	Marketing Planning
+	Sales Planning
+--------------------------- plm
+	Plm
+	Agile Plm
+--------------------------- pnl
+	Pnl Management
+	Pnl E Vendita
+--------------------------- policy
+	Policy Analysis
+	Policy
+	Health Policy Analysis
+	Policy Making
+	Public Policy
+	Policy Structuring
+	Social Policy
+	Environmental Policy
+	Energy Policy
+	Policy Administration
+--------------------------- policy analysis
+	Policy Analysis
+	Health Policy Analysis
+--------------------------- political
+	Political Polling
+	Political Consulting
+	Political Strategy
+--------------------------- portfolio
+	Portfolio Optimization
+	Project Portfolio Management
+	Portfolio Management
+--------------------------- positive
+	Positive Attitude
+	Leading Positive Change
+--------------------------- power
+	Power Generation
+	Informatica Power Center 8.1
+	Power Electronics
+--------------------------- powerpoint
+	Microsoft Powerpoint
+	Powerpoint
+--------------------------- practice
+	Service Management As A Practice
+	General Practice
+--------------------------- predictive
+	Predictive Analytics
+	Predictive Modeling
+	Predictive Modelling
+--------------------------- preparation
+	Quote Preparation
+	Test Preparation
+	Exhibit Preparation
+--------------------------- presentation
+	Paper Presentation
+	Presentation
+	Oral Presentation Skills
+	Technical Sales Presentations
+	Business Plans Presentations
+	Company Presentations
+	Technical Presentations
+	Presentation Skills
+	Business Presentation
+	Presentations
+	Sales Presentations
+--------------------------- pricing
+	Pricing Strategy
+	Pricing
+	Commodity Pricing
+--------------------------- private
+	Private Cloud
+	Private Equity
+--------------------------- proactive
+	Motivated With A Proactive Approach To Work
+	Proactive
+--------------------------- probabilistic
+	Probabilistic Graphical Models
+	Probabilistic Modelling
+--------------------------- problem solving
+	Collaborative Problem Solving
+	Problem Solving
+	Complex Problem Solving
+	Creative Problem Solving
+	Problem Solving Skills
+	Problem-Solving
+	Strong Problem-Solving
+--------------------------- process
+	Process Excellence
+	Process Mapping
+	Process Simulation
+	Sales Process
+	Chemical Process Safety
+	Process Improvement
+	Business Process Design
+	Process Engineering
+	Business Process Re-Engineering
+	Process Design
+	Business Process
+	Proficiency In Word Processing
+	Batch Processing
+	Analysis  Process
+	Image Processing
+	Digital Signal Processing
+	Itil Process
+	Business Process Improvement
+	Quality Process Building For Organizations
+	Business Process Management
+	Digital Image Processing
+	Data Processing
+	Signal Processing
+	Process Scheduler
+	Biz Process
+	Text Processing
+	Websphere Process Server
+	Mineral Processing
+	Process Development
+	Biomedical Signal Processing
+	Natural Language Processing
+	Process Consulting
+--------------------------- process design
+	Process Design
+	Business Process Design
+--------------------------- process improvement
+	Process Improvement
+	Business Process Improvement
+--------------------------- product
+	Product Promotion
+	Product Design
+	New Product Launches 360 Degree Strategy To Implementation
+	Product Lifecycle Management
+	Technical Product Sales
+	Product Marketing
+	Product Management
+	Product Innovation
+	Product Launch
+	Film Production
+	Video Production
+	Toyota Production System
+	Production
+	Product Cost Analysis
+	Microalgae Biofuel Production
+	Product Development
+--------------------------- product management
+	Product Lifecycle Management
+	Product Management
+--------------------------- production
+	Film Production
+	Video Production
+	Toyota Production System
+	Production
+	Microalgae Biofuel Production
+--------------------------- professional
+	Professional Services
+	English Language: Professional Working Proficiency.
+--------------------------- proficiency
+	Proficiency With Information
+	German Language: Elementary Proficiency
+	Intermediate R Proficiency
+	Proficiency In Word Processing
+--------------------------- program
+	Program Development
+	Program Management
+	Basic Programming
+	Windows Programming
+	Dynamic Programming
+	C Programming
+	Genetic Programming
+	Socket Programming
+	Kernel Programming
+	Programming : R
+	Computer Programming
+	Multi-Language Computer Programming
+	Programming Languages
+	Statistical Programming
+	Scientific Programming
+	Programming Skills
+	Java Programming
+	Sas Programming
+	Octave Programming
+	R Programming
+	Parallel Programming
+	Python Programming
+	Functional Programming
+	Programming
+	Basic Python Programming
+	Logic Programming
+	R Programming Langauge
+--------------------------- programmer
+	Sun Certified Java Programmer
+	Excellent Programmer
+	Java Programmer
+--------------------------- programming parallel
+	Cuda Programming (Coursera - Heterogeneous Parallel Programming)
+	Parallel Programming
+--------------------------- project
+	Project Management.
+	Project Finance
+	Project Execution
+	Microsoft Project 2010 Specialist
+	Project Design
+	Research Project Management
+	Project Coordination
+	Project Management Skills
+	Agile Project Management
+	Project Delivery
+	Ms Project
+	Project Management
+	Project
+	International Project Management
+	Gantt Project
+	Project Scope Management
+	Project Management In Tenders
+	Project Administration
+	It Project Lifecycle
+	Management Project
+	Software Project Management
+	Project Estimation
+	Project Finance Advisory
+	Project Planning
+	Project Portfolio Management
+	Compressed Air Project Evaluation:  Payback Analysis Regarding The Benefits Of Improving Processes.
+	Project Management Office
+	Applied Project Management
+	Key Factor For Closing Projects In Mayor Steel Company
+	Open Source Projects
+--------------------------- project finance
+	Project Finance Advisory
+	Project Finance
+--------------------------- project management
+	Project Scope Management
+	Project Portfolio Management
+	International Project Management
+	Project Management Skills
+	Research Project Management
+	Software Project Management
+	Project Management In Tenders
+	Project Management Office
+	Applied Project Management
+	Project Management
+	Agile Project Management
+	Management Project
+--------------------------- promotion
+	Product Promotion
+	Export Promotion
+--------------------------- property
+	Real Property
+	Intellectual Property Research
+	Property
+	Intellectual Property
+	Intellectual Property Infringement
+--------------------------- protein
+	Protein Crystallization
+	Protein Characterization
+	Protein Chemistry
+	Protein Expression
+--------------------------- public
+	Public Policy
+	Public Speaking
+	Public Sector
+	Public Outreach
+	Public Administration
+	Public Relations
+--------------------------- public management
+	Public Financial Management
+	Public Management
+--------------------------- python
+	Python Development
+	Java Algorithms Data Structures Python Javascript
+	Basic Python Programming
+	Basic Python Skills
+	Basic Python
+	Python (Basics)
+	Python Programming
+	Python
+--------------------------- qualitative
+	Qualitative Market Research
+	Qualitative Data Analysis
+	Qualitative Research
+--------------------------- qualitative research
+	Qualitative Market Research
+	Qualitative Research
+--------------------------- quality
+	Water Quality
+	Quality Assurance
+	Leadership Quality
+	Data Quality
+	Software Quality Assurance
+	Quality Center
+	Quality Process Building For Organizations
+	Quality Management
+	Quality Control Analysis
+	Water Quality Modeling
+	Quality Control
+--------------------------- quality assurance
+	Software Quality Assurance
+	Quality Assurance
+--------------------------- quality control
+	Quality Control Analysis
+	Quality Control
+--------------------------- quantitative
+	Quantitative Finance
+	Quantitative Research
+	Quantitative Analysis
+	Quantitative Analytics
+	Quantitative Data Analysis
+--------------------------- quantitative analysis
+	Quantitative Data Analysis
+	Quantitative Analysis
+--------------------------- quantum
+	Quantum Information
+	Quantum Mechanics
+	Quantum Field Theory
+	Quantum Computing
+--------------------------- r
+	R Fundamentals
+	Sap R
+	R
+	Software R
+	R Programming Langauge
+	Programming : R
+	R Programming
+--------------------------- radio
+	Radio Network Optimization
+	Radio
+	Radio Network Planning
+--------------------------- rails
+	Rails
+	Ruby On Rails
+--------------------------- real estate
+	Real Estate Transactions
+	Real Estate
+	International Real Estate
+	Commercial Real Estate
+--------------------------- recognition
+	Speech Recognition
+	Pattern Recognition
+--------------------------- recommendation
+	Recommendation Engine Modeling
+	Recommendation System
+--------------------------- red hat linux
+	Red Hat Enterprise Linux
+	Red Hat Linux
+--------------------------- redis
+	Redis ...
+	Redis
+--------------------------- reduction
+	Cost Reduction
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+--------------------------- regression
+	Logistics Regression
+	Regression Testing
+	Logistic Regression
+	Linear Regression
+	Regression Analysis
+--------------------------- regulatory
+	Regulatory Affairs
+	Regulatory Compliance
+--------------------------- relations
+	Employee Relations
+	Customer Relations
+	Interpersonal Relationship Skills
+	Relationship Management
+	Public Relations
+	International Relations
+	Business Relationship Management
+	Relationship Building
+--------------------------- relationship management
+	Business Relationship Management
+	Relationship Management
+--------------------------- renewable energy
+	Renewable Energy Design
+	Renewable Energy
+--------------------------- report
+	Crystal Report
+	Report Writing
+	Jasper Reports
+	Crystal Reports
+	Reporting Systems
+	Financial Reporting
+	Reports 6I
+	Jasper Reports
+	Crystal Reports
+--------------------------- requirements
+	Requirements Traceability
+	Requirements Analysis
+	System Requirements
+	Business Requirements
+	Requirements Gathering
+--------------------------- research
+	Equity Research
+	Qualitative Research
+	Business Research
+	Survey Research
+	Research Leadership
+	Clinical Research
+	Empirial Research
+	Operations Research
+	Economic Development Research
+	Research Project Management
+	Social Research
+	Research
+	Consumer Research
+	Research Skills
+	Brand Research
+	Advertising Research
+	Qualitative Market Research
+	Economic Research
+	Research Design
+	Communications Research
+	Marketing Research
+	Market Research
+	Quantitative Research
+	Intellectual Property Research
+--------------------------- resource
+	Enterprise Resource Planning
+	Resource Management
+	Human Resource Development
+	Natural Resources
+	Human Resources
+	Water Resources
+--------------------------- retail
+	Retail Audit Search
+	Retail
+	Passionate About Retail
+--------------------------- rf
+	Rf Engineering
+	Rf
+--------------------------- rights
+	Lgbt Rights
+	Human Rights
+--------------------------- risk
+	Market Risk
+	Financial Risk
+	Credit Risk
+	Risk Assessment
+	Risk Based Testing
+--------------------------- risk management
+	Commodity Risk Management
+	Risk Management
+--------------------------- rnaseq
+	Rnaseq
+	Rnaseq Analysis
+--------------------------- robotics
+	Social Robotics
+	Robotics
+--------------------------- roid
+	roid Sdk
+	roid
+	roid Development
+--------------------------- room
+	Emergency Room
+	Operating Room Sales
+	Operating Room
+--------------------------- ruby
+	Ruby On Rails
+	Ruby
+--------------------------- safety
+	Behavior Based Safety (Bbs)
+	Safety Management
+	Electrical Safety
+	Patient Safety
+	Lean Safety
+	Safety Workplace
+	Safety Management System
+	Construction Safety
+	Chemical Process Safety
+--------------------------- safety management
+	Safety Management System
+	Safety Management
+--------------------------- sales
+	Capital Equipment Sales
+	Medical Sales
+	Technical Product Sales
+	Sales Presentations
+	Sales Force Development
+	Technical Sales Presentations
+	Sales Strategy
+	Direct Sales
+	Operating Room Sales
+	Sales Planning
+	Sales Process
+	Surgical Device Sales
+	International Sales
+	Technical Sales
+	Hospital Sales
+	Sales Management
+	Sales Operations
+	Sales
+	Sales Efectiveness
+--------------------------- sap
+	Sap Ui5
+	Sap Bw
+	Sap R
+	Sap
+	Sap Crm Technical
+	Sap Hana
+--------------------------- sas
+	Sas Programming
+	Sas
+--------------------------- scheduler
+	Quartz Scheduler
+	Process Scheduler
+	Job Scheduling
+	Scheduling Management
+--------------------------- science
+	Bsc Mathematical Science
+	Actuarial Science
+	Materials Science
+	Earth Science
+	Science
+	Computer Science
+	Data Sciences (Coursera - Introduction To Data Science)
+	Data Science
+	Life Sciences
+	Data Sciences
+--------------------------- script
+	Bash Script
+	Perl Script
+	Scripting Troubleshooting
+	Unix Shell Scripting
+	Scripting
+	Shell Scripting
+	Scripting
+--------------------------- scrum
+	Scrum Master Csm
+	Scrum
+	Certified Scrum Master Csm
+--------------------------- sdlc
+	Full Sdlc
+	Sdlc
+--------------------------- search
+	Information Search
+	Search Engine Technology
+	Enterprise Search
+	Retail Audit Search
+	Job Search Support
+	Job Search Advice
+	Search
+--------------------------- security
+	Information Security
+	National Security
+	Computer Security
+	Network Security
+	System Security
+	Security
+	Security Clearance
+--------------------------- segmentation
+	Customer Segmentation Analysis
+	Segmentation
+--------------------------- selling
+	Solution Selling
+	Selling
+--------------------------- semiconductor
+	Semiconductor Industry
+	Semiconductor Fabrication
+--------------------------- seo
+	E-Commerce Seo
+	Seo
+--------------------------- server
+	Server Administration
+	Websphere Process Server
+	Windows Server
+	Blackberry Enterprise Server
+	Blackberry Enterprise Server Administration
+	Websphere Application Server
+	Jboss Application Server
+	Linux Server
+--------------------------- server administration
+	Blackberry Enterprise Server Administration
+	Server Administration
+--------------------------- service
+	Hp Service Manager
+	It Service Management
+	Customer Service
+	Analysis Services
+	Amazon Web Services (Aws)
+	Service Operations Management
+	Wcf Services
+	Web Services
+	Amazon Web Services
+	Internet Services
+	Field Service
+	Service Delivery
+	Customer Service Model
+	Managed Services
+	Service Management As A Practice
+	Service Design
+	Restful Services
+	Professional Services
+	Service Desk
+	Excel Services
+--------------------------- service management
+	Service Management As A Practice
+	Service Operations Management
+	It Service Management
+--------------------------- sharepoint
+	Microsoft Office Sharepoint Server
+	Sharepoint
+--------------------------- shell scripting
+	Shell Scripting
+	Unix Shell Scripting
+--------------------------- signal processing
+	Biomedical Signal Processing
+	Digital Signal Processing
+	Signal Processing
+--------------------------- simulation
+	Process Simulation
+	Monte Carlo Simulation
+	Stochastic Simulation
+	Arena Simulation Software
+	Numerical Simulation
+	Simulation
+--------------------------- six sigma
+	Lean Six Sigma
+	Six Sigma
+--------------------------- sla
+	Sla
+	Sla Management
+--------------------------- small business
+	Small Business Developent
+	Small Business
+--------------------------- soa
+	Oracle Soa
+	Soa
+--------------------------- social
+	Social Media Ads Management
+	Social Research
+	Social Networking Websites
+	Social Policy
+	Social Return On Investment
+	Social Network Analysis
+	Social Media Outreach
+	Corporate Social Responsibility
+	Social Entrepreneurship
+	Social Media Marketing
+	Social Robotics
+	Social Networking
+	Social Media
+	Social Bookmarking
+	Social Marketing
+--------------------------- social marketing
+	Social Marketing
+	Social Media Marketing
+--------------------------- social media
+	Social Media Outreach
+	Social Media Ads Management
+	Social Media
+	Social Media Marketing
+--------------------------- social networking
+	Social Networking Websites
+	Social Networking
+--------------------------- software
+	Software Business Analysis
+	Software Quality Assurance
+	Software Development (20+ Years Experience)
+	Software Asset Management
+	Software Analysis
+	Software Project Management
+	Software Development
+	Arena Simulation Software
+	Enterprise Software
+	Software Modelling
+	Software R
+	Software Architecture
+	Wide Range Of Software Engineering
+	Software Verification
+	Software Documentation
+	Object Oriented Software
+	Event Management Software
+	Software Engineering
+	Software Design
+	Software Testing Life Cycle
+	Software Development Life Cycle
+	Software Testing
+	Software Lifecycle
+	It Management Software
+	Cambridge Engineering Selector(Ces) Software
+	Software
+--------------------------- software analysis
+	Software Analysis
+	Software Business Analysis
+--------------------------- software development
+	Software Development (20+ Years Experience)
+	Software Development
+	Software Development Life Cycle
+--------------------------- software engineering
+	Wide Range Of Software Engineering
+	Cambridge Engineering Selector(Ces) Software
+	Software Engineering
+--------------------------- software life cycle
+	Software Development Life Cycle
+	Software Testing Life Cycle
+--------------------------- software management
+	Software Asset Management
+	Software Project Management
+--------------------------- software testing
+	Software Testing Life Cycle
+	Software Testing
+--------------------------- solar
+	Solar Energy
+	Solar Cells
+	Solar Thermal
+--------------------------- solution
+	Solution Architect -  Cloud Computing
+	Solution Architecture
+	Solutions Marketing
+	Client Solutions
+	It Solutions
+	Solutions Design
+	Creative Solutions
+	Solution Selling
+--------------------------- spanish
+	Fully Bilingual (Native Spanish - Expert English Level)
+	Spanish
+	Speak Fluently Spanish
+--------------------------- spark
+	Spark Mllib
+	Spark
+--------------------------- spatial
+	Spatial Econometrics
+	Spatial Analysis
+--------------------------- specifications
+	Design Specifications
+	Functional Specifications
+--------------------------- spectroscopy
+	Laser Spectroscopy
+	Spectroscopy
+	Ultrafast Spectroscopy
+--------------------------- speech
+	Speech Writing
+	Speech Recognition
+--------------------------- sports
+	Sports Management
+	Sports Marketing
+	Sports Medicine
+--------------------------- sql
+	Sql Expert
+	Microsoft Sql Server
+	Sql Tuning
+	Sql
+	Sql Tun
+	Sql Oracle
+	Oracle Sql
+	Sql Server
+--------------------------- stakeholder
+	Stakeholder Analysis
+	Stakeholder Management
+--------------------------- startup
+	Lean Startup
+	Startup Commissioning
+--------------------------- statistical
+	Statistical Programming
+	Statistical Data Analysis
+	Statistical Physics
+	Statistical Analysis
+	Statistical Inference
+	Statistical Modeling
+	Statistical Learning
+	Statistical Analysis Using Ms Excel
+--------------------------- statistical analysis
+	Statistical Data Analysis
+	Statistical Analysis
+	Statistical Analysis Using Ms Excel
+--------------------------- statistics
+	Multivariate Statistics
+	Statistics
+	Basic Statistics
+	Mathematical Statistics
+--------------------------- stochastic
+	Stochastic Analysis
+	Stochastic Modeling
+	Stochastic Differential Equations
+	Stochastic Simulation
+--------------------------- stock
+	Analysis Of Stock Investment.
+	Stock Market
+--------------------------- storage
+	Data Storage
+	Emc Storage
+--------------------------- strategic
+	Strategic Development
+	Strategic Planning
+	Strategic Alliance Management
+	Strategic Communications
+	Strategic Management
+	Strategic Consulting
+	Strategic Partnerships
+	Strategic Analysis
+	Strategic Financial Planning
+	Strategic Thinking
+	Strategic Partnership Development
+	Strategic Analysis.
+	Strategic Insights
+--------------------------- strategic development
+	Strategic Partnership Development
+	Strategic Development
+--------------------------- strategic management
+	Strategic Management
+	Strategic Alliance Management
+--------------------------- strategic planning
+	Strategic Financial Planning
+	Strategic Planning
+--------------------------- strategies
+	Strategies
+	Competitive Strategies
+	Trading Strategies
+	Developing Training Strategies
+	Business Strategies
+	Information Strategy
+	Basis Of  Strategy
+	Strategy Execution
+	Strategy Analysis
+	Digital Strategy
+	Strategy Consulting
+	Competitive Strategy
+	Business Strategy
+	Mobility Strategy
+	Marketing Strategy
+	Go-To-Market Strategy
+	Design Strategy
+	Political Strategy
+	Sales Strategy
+	Strategy
+	Technology Strategy
+	Pricing Strategy
+	Creative Strategy
+	International Business Strategy
+	New Product Launches 360 Degree Strategy To Implementation
+	Test Strategy
+	It Strategy
+	Strategy Development
+--------------------------- structural
+	Structural Bioinformatics
+	Structural Design
+	Structural Engineering
+	Structural Biology
+--------------------------- studies
+	Feasibiity Studies
+	Time Studies
+--------------------------- study
+	Market Study
+	Study Setup
+--------------------------- supervisory
+	Supervisory Skills
+	Supervisory Experience
+--------------------------- supply chain
+	Supply Chain
+	Supply Chain Management
+--------------------------- support
+	Desktop Application Support
+	Technical Support
+	Job Search Support
+	Help Desk Support
+	Support Vector Machines
+	Customer Support
+	Administrative Support
+--------------------------- surgery
+	General Surgery
+	Surgery
+--------------------------- surgical
+	Surgical Device Sales
+	Surgical Instruments
+--------------------------- survey
+	Survey Research
+	Survey Design
+--------------------------- sustainability
+	Corporate Sustainability
+	Sustainability
+	Sustainability Consulting
+--------------------------- sustainable
+	Sustainable Energy
+	Sustainable Development
+--------------------------- svn
+	Svn
+	Tortoise Svn
+--------------------------- system
+	Linux System Administration
+	Coding Of Sofware System
+	It  Systems
+	Control Systems Design
+	Information Systems
+	Operating Systems
+	Energy Saving: Reduction In Energy Consumption In Compressed Air Systems In Various Enterprises
+	Biological Systems
+	System Design
+	Recommendation System
+	Optimisation Of Energy Systems
+	Messaging Systems
+	Environmental Management Systems
+	Systems Biology
+	Toyota Production System
+	System Integration Testing
+	Systems Evaluation
+	Systems Analysis
+	Enterprise Systems Architecture
+	Desktop Systems
+	System Requirements
+	Control System Engineering
+	Systems Thinking
+	Distributed Systems
+	Engineering Of Embedded System
+	System Administration
+	Safety Management System
+	System Security
+	Reporting Systems
+	Database Management System
+	Geographical Information System (Gis)
+	Trading Systems
+	System Testing
+	System Administrator
+	Multimedia Systems
+	System Deployment
+	Systems Engineering
+	System Architecture
+	It Systems
+--------------------------- system administration
+	System Administration
+	Linux System Administration
+--------------------------- system testing
+	System Integration Testing
+	System Testing
+--------------------------- tax
+	Tax Law
+	International Tax
+	Tax
+--------------------------- teaching
+	Language Teaching
+	Teaching
+--------------------------- team
+	Team Building
+	Team Management
+	Team Spirit
+	Team Leadership
+	Team Work
+	Cross-Functional Team Leadership
+	Distributed Team Management
+	Team Management Skills
+	Multi-Cultural Team Leadership
+	Building World Class Teams
+	Virtual Teams
+	Coordination Of Teams
+--------------------------- team leadership
+	Multi-Cultural Team Leadership
+	Cross-Functional Team Leadership
+	Team Leadership
+--------------------------- team management
+	Team Management Skills
+	Team Management
+	Distributed Team Management
+--------------------------- technical
+	Technical Architecture
+	Technical Sales Presentations
+	Technical Skills
+	Technical Support
+	Technical Consulting
+	Technical Writing
+	Technical Analysis
+	Technical Draftsman
+	Technical Leadership
+	Technical Sales
+	Technical Presentations
+	Sap Crm Technical
+	Technical Product Sales
+	Technical Documentation
+--------------------------- technical presentations
+	Technical Presentations
+	Technical Sales Presentations
+--------------------------- technical sales
+	Technical Sales Presentations
+	Technical Sales
+	Technical Product Sales
+--------------------------- technologies
+	Microsoft Technologies
+	Cisco Technologies
+	Web Technologies
+--------------------------- technology
+	Green Technology
+	Technology Advisory
+	Educational Technology
+	Technology Management
+	Technology Strategy
+	Pharmaceutical Technology
+	Technology Planning
+	Technology
+	Information Technology Management
+	Food Technology
+	Technology For Human Capital Management
+	Technology Roadmapping
+	Search Engine Technology
+	Information Technology
+	Clean Technology
+	Technology Consulting
+--------------------------- technology management
+	Technology For Human Capital Management
+	Technology Management
+	Information Technology Management
+--------------------------- test
+	Test Analysis
+	Test Planning
+	Executing Test Plans
+	Test Case Generation
+	Test Driven Development
+	Exploratory Testing
+	Software Testing
+	Agile Testing
+	Sanity Testing
+	Non-Functional Testing
+	Testing
+	End-To-End Testing
+	Manual Testing
+	System Integration Testing
+	Ui Testing
+	User Acceptance Testing
+	Smoke Testing
+	Drive Test
+	Test Execution
+	System Testing
+	Test Engineering
+	Test Automation
+	Web Testing
+	Regression Testing
+	Integration Testing
+	Localization Testing
+	Compatibility Testing
+	Software Testing Life Cycle
+	Game Testing
+	Test Cases
+	Mechanical Testing
+	Usability Testing
+	Test Preparation
+	Risk Based Testing
+	Performance Testing
+	Test Strategy
+	Black Box Testing
+	Test Equipment
+	Test Management
+	Test Estimation
+	Test Design
+	Functional Testing
+--------------------------- text
+	Restructured Text
+	Text Analytics
+	Text Processing
+	Text Mining
+--------------------------- theoretical
+	Theoretical Informatics
+	Theoretical Physics
+--------------------------- theory
+	Quantum Field Theory
+	Game Theory
+	Theory
+--------------------------- thinking
+	Model Thinking
+	Critical Thinking
+	Systems Thinking
+	Free Thinking
+	Design Thinking
+	Strategic Thinking
+--------------------------- time
+	Time Series Analysis
+	Time Management
+	Time Studies
+	Time Arrangement
+--------------------------- tracking
+	Bug Tracking
+	Defect Tracking
+--------------------------- trade
+	Trade Shows
+	Trade Development
+	International Trade
+	Automated Securities Trading
+	Trading
+	Trading Strategies
+	Equity Trading
+	Fixed Income Trading
+	Fx Trading
+	Trading Systems
+	Futures Trading
+	Proprietary Trading
+	Automated Trading
+--------------------------- training
+	Conducting Training Needs Assessment
+	Developing Training Strategies
+	Training
+--------------------------- translation
+	English-Chinese Translation
+	Languages Translation
+	Translation
+--------------------------- troubleshooting
+	1St Level Troubleshooting (Xp
+	Troubleshooting
+	Scripting Troubleshooting
+--------------------------- tutoring
+	Tutoring
+	Academic Tutoring
+--------------------------- twitter
+	Twitter
+	Twitter Api
+--------------------------- ui
+	Ui
+	Ui Testing
+--------------------------- unix
+	Unix Shell Scripting
+	Unix
+--------------------------- user
+	User Acceptance Testing
+	User Experience
+	Dementia Care Mapping- Basic User
+	User Interface Design
+--------------------------- ux
+	Ux Design
+	Ux
+--------------------------- valuation
+	Valuation Modeling
+	Valuation
+	Dcf Valuation
+	Enterprise Valuation
+	Value Chain Analysis
+	Value Stream Mapping
+--------------------------- vba
+	Microsoft Vba
+	Excel Vba
+	Vba
+--------------------------- vehicle
+	Vehicle Dynamics
+	Vehicle Crash Analysis
+	Hybrid Electric Vehicles
+	Vehicles
+--------------------------- vendita
+	Tecniche Di Vendita
+	Vendita Emozionale E Sensoriale
+	Pnl E Vendita
+--------------------------- vendor
+	Vendor Manangement
+	Vendor Management
+	Vendor Managed Inventory
+--------------------------- verification
+	Software Verification
+	Hardware Verification
+--------------------------- video
+	Video Production
+	Video Editing
+--------------------------- vision
+	Creative Vision
+	Computer Vision
+--------------------------- visualization
+	Basic Visualization
+	Visualization
+	Data Visualization
+--------------------------- water
+	Surface Water Hydrology
+	Water Resources
+	Water
+--------------------------- water quality
+	Water Quality
+	Water Quality Modeling
+--------------------------- wcf
+	Wcf
+	Wcf Services
+--------------------------- web
+	Web Analytics
+	Web Scraping
+	Moodle Web Designer
+	Web Technologies
+	Website Updating
+	Corporate Website Management
+	Web
+	Web Design
+	Web Testing
+	Amazon Web Services
+	Website Localization
+	Web Services
+	Semantic Web
+	Web Development Using Asp.Net C#
+	Web Development
+	Web Applications
+	Joomla Web Designer
+	Amazon Web Services (Aws)
+	Website Development
+	Web Application Development
+	Website Development Skills
+--------------------------- web designer
+	Moodle Web Designer
+	Joomla Web Designer
+--------------------------- web development
+	Web Application Development
+	Web Development
+	Web Development Using Asp.Net C#
+	Website Development Skills
+	Website Development
+--------------------------- web services
+	Amazon Web Services
+	Web Services
+	Amazon Web Services (Aws)
+--------------------------- websphere server
+	Websphere Process Server
+	Websphere Application Server
+--------------------------- windows
+	Windows Azure
+	Windows Server
+	Windows Internals
+	Windows
+	Windows Rt
+	Windows Programming
+--------------------------- wordpress
+	Wordpress Site Development
+	Wordpress
+--------------------------- work ability
+	Work In Multi-Cultural
+	Team Work
+	Smart Working
+	English Language: Professional Working Proficiency.
+	Ability To Work Under Pressure
+	Motivated With A Proactive Approach To Work
+	Work Under Stress
+--------------------------- writing
+	Technical Writing
+	Report Writing
+	Speech Writing
+	Academic Writing
+	News Writing
+	Grant Writing
+	Proposal Writing
+	Writing
+	Creative Writing
+	Written Communication
+	Written
+--------------------------- x-ray
+	X-Ray Crystallography
+	Powder X-Ray Diffraction
+--------------------------- years experience
+	Electronic Design (5+ Years Experience)
+	Software Development (20+ Years Experience)
+--------------------------- youth
+	Hold In My Youth
+	Youth Leadership
+---------------------------

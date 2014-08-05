@@ -1,0 +1,209 @@
+import sys
+import json
+import re
+import operator
+import countries
+from heapq import nlargest
+from operator import itemgetter
+
+
+locations_dic = {} # location statistics
+skills_desired_dic = {} # skills desired statistics 
+skills_acquired_dic = {} # skills acquired statistics 
+
+
+def print_file(fp):
+
+    for line in fp:
+        keys = json.loads(line).keys()
+        
+        for x in keys:
+            
+            print keys
+            #skills = json.loads(line)[x]
+            
+            """ for i in skills:
+                
+                if i == "Acquired Skills":
+                    print "Acquired Skills:"
+                    for k in skills[i]:
+                        
+                elif i == "Desired Skills":
+                    print "Desired Skills:"
+                    for k in skills[i]:
+                        print "       " , k
+                else:
+                    print i, " = ", skills[i]
+            print " --------------------------------------------------- "    
+           "" 
+
+# return most popular acquired and desired skills among coursolvers
+# usage: most_popular_skills(input file, number of top skills to return)
+def most_popular_skills(fp, top_number):
+    
+    for line in fp:
+        keys = json.loads(line).keys()
+        print keys
+        for x in keys:
+            skills = json.loads(line)[x]
+            for i in skills:
+                
+                for i in skills.keys():
+                
+                if i == "Desired Skills":
+                    desired_skills = skills[i]
+                    
+                    for skill in desired_skills:
+                        if skill in skills_desired_dic.keys():
+                            skills_desired_dic[skill] += 1 
+                        else:
+                            skills_desired_dic[skill] = 1 
+
+                if i == "Acquired Skills":
+                    acquired_skills = skills[i]
+                                        
+                    for skill in acquired_skills:
+                        if skill in skills_acquired_dic.keys():
+                            skills_acquired_dic[skill] += 1 
+                        else:
+                            skills_acquired_dic[skill] = 1 
+                            
+        print ' --------- SKILLS STATISTICS FOR CONTINENT ', continent_to_work , ' ----------'                    
+
+    
+        for w in sorted(locations_dic, key=locations_dic.get, reverse=True):
+        print w, locations_dic[w]
+
+         
+# return continent given a country
+def get_continent(country):
+    
+    for x  in countries.countries:
+        if x['name'].lower().decode('utf-8') == country.lower():
+            return x['continent']
+
+# return number of users per countr
+def location_stats(fp):
+    
+    for line in fp:
+        keys = json.loads(line).keys()
+        
+        for x in keys:
+            y +=1
+            skills = json.loads(line)[x]
+            for i in skills:
+                
+                if i == "Location":
+                    location = skills[i]
+                    if location in locations_dic.keys():
+                        locations_dic[location] += 1 
+                    else:
+                        locations_dic[location] = 1
+    
+#sorted_locations_dic = sorted(locations_dic.iteritems(), key=operator.itemgetter(1))
+    #print sorted_locations_dic            
+    for w in sorted(locations_dic, key=locations_dic.get, reverse=True):
+        print w, locations_dic[w]
+    
+    
+# return top_number of skills acquired and desired by continent requested
+def skills_stats(fp, continent_to_work, top_number):
+    
+    number_users = 0
+    for line in fp:
+ 
+        keys = json.loads(line).keys()
+        
+        for x in keys:
+            skills = json.loads(line)[x]
+            
+            country = skills['Location']
+            continent = get_continent(country)
+            
+            # if user continent not match the searched continent move to next user
+            if not continent == continent_to_work and not continent_to_work == 'all':
+                continue
+            
+            # count number of users
+            number_users +=1
+            
+            for i in skills.keys():
+                
+                if i == "Desired Skills":
+                    desired_skills = skills[i]
+                    
+                    for skill in desired_skills:
+                        if skill in skills_desired_dic.keys():
+                            skills_desired_dic[skill] += 1 
+                        else:
+                            skills_desired_dic[skill] = 1 
+
+                if i == "Acquired Skills":
+                    acquired_skills = skills[i]
+                                        
+                    for skill in acquired_skills:
+                        if skill in skills_acquired_dic.keys():
+                            skills_acquired_dic[skill] += 1 
+                        else:
+                            skills_acquired_dic[skill] = 1 
+                            
+        print ' --------- SKILLS STATISTICS FOR CONTINENT ', continent_to_work , ' ----------'                    
+        print
+        print ' --------- NUMBER OF USERS ANALYZED = ', number_users
+        print
+        print '---------> SKILLS ACQUIRED TOP ', top_number
+        print
+        for skill_acquired, count in nlargest(int(top_number), skills_acquired_dic.iteritems(), key=itemgetter(1)):                   
+            print skill_acquired, count
+        print
+        print '---------> SKILLS DESIRED TOP ', top_number
+        print
+        for skill_desired, count in nlargest(int(top_number), skills_desired_dic.iteritems(), key=itemgetter(1)):                   
+            print skill_desired, count
+
+            #for w in sorted(skills_desired_dic, key=skills_desired_dic.get, reverse=True):
+            #print continent_to_work
+            #print w, skills_desired_dic[w]
+           
+def wordFrequency(fp):
+    
+    words_count = 0.0
+
+    for line in fp:
+        words_count +=1
+        
+        if ('text' in json.loads(line).keys()):
+            text = json.loads(line)['text'].encode('utf-8')
+            wordlist = re.sub("[^\w]", " ",  text).split()
+            
+            for word in wordlist:
+                if word in words_dic.keys():
+                    words_dic[word] = words_dic[word] + 1
+                else:
+                    words_dic[word] = 1
+
+    words_dic.update((k, v/words_count) for k,v in words_dic.iteritems())
+    
+#def printDic():
+#    for key, value in skills_file.iteritems():
+#        print key,value                
+
+def main():
+    
+    if not len(sys.argv) == 5:
+        print 'Usage: explore file operation continent top_number'
+        return
+    
+    skills_file = open(sys.argv[1])
+    operation = sys.argv[2]
+    continent = sys.argv[3]
+    top_number = sys.argv[4]
+    
+    if operation == 'skills_stats':
+        skills_stats(skills_file , continent, top_number)
+    if operation == 'location_stats':
+        location_stats(skills_file)
+
+
+if __name__ == '__main__':
+    main()
